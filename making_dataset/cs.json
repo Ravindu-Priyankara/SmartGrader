@@ -1373,6 +1373,34 @@
             "In the coming years, computer science will witness transformative trends such as meta-learning, swarm robotics, and a focus on addressing ethical considerations in AI and automation."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "What is a database management system (DBMS), and provide an example.",
+            "Define a database management system (DBMS) and give an example.",
+            "Can you explain what a DBMS is and offer an example?",
+            "Provide a definition for a database management system (DBMS) along with an example.",
+            "Elaborate on the concept of a database management system (DBMS) and offer a specific example.",
+            "What does a database management system (DBMS) entail, and can you cite an example?",
+            "Explain the functionality of a database management system (DBMS) and provide an illustrative example.",
+            "Could you describe what a DBMS is and furnish an example?",
+            "Offer an explanation for a database management system (DBMS) and include an example.",
+            "Give a definition of a database management system (DBMS) and supply an example."
+         ],
+         "responses":[
+            "A database management system (DBMS) is software that facilitates the creation, organization, and management of databases. An example is MySQL.",
+            "DBMS is a software tool that allows efficient storage and retrieval of data. An example includes Microsoft SQL Server.",
+            "A DBMS is a system for managing databases, ensuring data integrity and security. Oracle Database is an example.",
+            "DBMS is software that controls the storage and retrieval of data. PostgreSQL is an example of a DBMS.",
+            "Database Management System (DBMS) is a software application that handles database operations. MongoDB is an example of a NoSQL DBMS.",
+            "A DBMS is a suite of software tools for managing databases. An example is SQLite, known for its lightweight nature.",
+            "DBMS is a software that facilitates the efficient organization and retrieval of data. An example is IBM Db2.",
+            "A database management system (DBMS) is a tool for managing data, and an example is Microsoft Access.",
+            "DBMS is software that enables users to interact with databases. An example includes Apache Cassandra.",
+            "A DBMS is a crucial system for handling databases, and an example is Redis, known for its key-value store functionality."
+         ],
+         "context_set": ""
       }
    ]
 }
