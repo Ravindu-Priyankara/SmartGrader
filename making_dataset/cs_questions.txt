@@ -1,0 +1,116 @@
+1. What is a compiler, and how does it differ from an interpreter?
+2. Explain the difference between RAM and ROM.
+3. What is a data structure, and give an example.
+4. Describe the concept of abstraction in computer science.
+5. What is the difference between a process and a thread?
+6. Explain the significance of the Turing machine in computer science.
+7. What is a software framework, and provide an example.
+8. Define Big O notation and its purpose in algorithm analysis.
+9. What is the difference between a high-level programming language and a low-level programming language?
+10. What is an API (Application Programming Interface) and its role in software development?
+11. Explain the concept of object-oriented programming (OOP).
+12. What is the difference between procedural programming and OOP?
+13. What is a variable, and how is it used in programming?
+14. Define recursion in the context of computer programming.
+15. Explain the concept of inheritance in OOP.
+16. What is polymorphism, and how is it implemented in OOP?
+17. Describe the principles of modular programming.
+18. Explain the purpose of version control systems like Git.
+19. What is an algorithm, and give an example of a simple one.
+20. Describe the concept of binary search and its time complexity.
+21. What is a linked list, and how does it differ from an array?
+22. Explain the purpose of a stack data structure.
+23. Define the term "heap" in the context of computer science.
+24. What is the role of a hash table in data storage and retrieval?
+25. Explain the difference between breadth-first search and depth-first search algorithms.
+
+31. Define the concept of virtual memory in operating systems.
+33. What is the difference between multi-threading and multi-processing?
+
+DBMS
+
+26. What is a database management system (DBMS), and provide an example.
+27. Describe the purpose of SQL (Structured Query Language).
+28. What are primary keys and foreign keys in a relational database?
+29. Explain the concept of normalization in database design.
+30. What is a NoSQL database, and when is it suitable for use?
+32. Explain the role of a file system in managing data storage.
+
+Computer networks
+
+34. Describe the purpose of a network protocol.
+35. What is an IP address and its significance in networking?
+36. Explain the OSI model and its layers.
+37. What is the purpose of the Transport Layer in the OSI model?
+38. Describe the difference between TCP and UDP.
+41. Define the term "router" and its role in packet forwarding.
+78. What is the Internet of Things (IoT), and how does it work?
+79. Describe the concept of edge computing in IoT.
+
+cybersecurity
+
+39. Explain the concept of encryption and its importance in cybersecurity.
+40. What is a firewall, and how does it protect a network?
+80. What are cybersecurity vulnerabilities, and how can they be mitigated?
+81. Explain the principles of digital forensics in cybersecurity.
+82. What is a denial-of-service (DoS) attack, and how does it work?
+83. Describe the significance of two-factor authentication (2FA) in security.
+84. What is a blockchain, and how is it used in cryptocurrencies?
+85. Explain the concept of virtual private networks (VPNs).
+99. Explain the concept of continuous monitoring in cybersecurity.
+
+CS
+
+42. Explain the concept of cloud computing and its benefits.
+43. What is virtualization, and how is it used in cloud computing?
+44. Describe the principles of distributed computing.
+45. What is the role of an operating system in a computer?
+46. Explain the concept of multi-user and multi-tasking operating systems.
+47. What is a shell in the context of an operating system?
+48. Describe the purpose of device drivers.
+49. Explain the concept of a process control block (PCB) in an operating system.
+50. What is a system call, and how does it interact with the kernel?
+51. Define deadlock in operating system terms and provide an example.
+52. Explain the concept of memory management in an operating system.
+53. What is paging and segmentation in memory management?
+54. Describe the purpose of a CPU scheduler in process management.
+55. What is a semaphore, and how does it prevent race conditions?
+56. Explain the purpose of interrupts in computer systems.
+57. What is cache memory, and how does it improve system performance?
+58. Describe the Von Neumann architecture of a computer.
+59. What is a bus in computer architecture, and what are its types?
+
+60. Explain the concept of pipelining in CPU design.
+61. What is the purpose of input and output (I/O) operations in computing?
+62. Describe the difference between synchronous and asynchronous I/O.
+63. Explain the concept of a mutex and its use in multithreaded programming.
+64. What is the difference between a socket and a port in networking?
+65. Describe the purpose of an HTTP request and response.
+66. Explain the concept of RESTful web services.
+67. What is a programming paradigm, and provide examples.
+68. Describe the principles of functional programming.
+69. Explain the concept of dynamic programming in algorithm optimization.
+70. What is machine learning, and how does it differ from traditional programming?
+71. Define artificial intelligence (AI) and its applications.
+72. What is the role of a neural network in deep learning?
+73. Explain the concept of reinforcement learning in AI.
+74. Describe the process of training a machine learning model.
+75. What is the difference between supervised and unsupervised learning?
+76. Define natural language processing (NLP) and its challenges.
+77. Explain the concept of computer vision in AI.
+86. What is open-source software, and how does it benefit the community?
+87. Describe the significance of coding standards in software development.
+88. Explain the purpose of software testing and quality assurance.
+89. What is continuous integration and continuous delivery (CI/CD)?
+90. Define the concept of DevOps and its principles.
+91. Explain the difference between a bug and a feature in software development.
+92. What is a user story, and how is it used in Agile development?
+93. Describe the principles of the Agile software development methodology.
+94. What is the purpose of a use case in software requirements analysis?
+95. Explain the concept of software architecture and its components.
+96. What is the role of a project manager in software development?
+97. Describe the principles of code review and its benefits.
+98. What is the role of a product owner in Scrum methodology?
+
+100. What is the future of computer science and emerging trends in the field?
+
