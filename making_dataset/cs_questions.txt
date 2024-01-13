@@ -82,8 +82,8 @@ CS
 60. Explain the concept of pipelining in CPU design.
 61. What is the purpose of input and output (I/O) operations in computing?
 62. Describe the difference between synchronous and asynchronous I/O.
-
 63. Explain the concept of a mutex and its use in multithreaded programming.
+
 64. What is the difference between a socket and a port in networking?
 65. Describe the purpose of an HTTP request and response.
 66. Explain the concept of RESTful web services.

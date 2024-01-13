@@ -1317,6 +1317,34 @@
             "Synchronous I/O follows a sequential pattern, waiting for each I/O operation to finish, whereas asynchronous I/O enables overlapping tasks, leading to a more parallel execution flow."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CS",
+         "patterns":[
+            "Explain the concept of a mutex and its use in multithreaded programming.",
+            "Define a mutex and elaborate on its role in multithreaded programming.",
+            "Can you provide an explanation of what a mutex is and how it is utilized in multithreaded programming?",
+            "What is the significance of a mutex in the context of multithreaded programming, and how is it employed?",
+            "Elaborate on the concept of a mutex and discuss its practical application in multithreaded programming.",
+            "Provide a detailed explanation of a mutex and its role in facilitating multithreaded programming.",
+            "How does a mutex function, and what purpose does it serve in the realm of multithreaded programming?",
+            "Discuss the usage and importance of a mutex in the context of multithreaded programming.",
+            "Examine the concept of a mutex and its practical implementation in the context of multithreaded programming.",
+            "In the context of multithreaded programming, can you explain the concept and utility of a mutex?"
+         ],
+         "responses":[
+            "A mutex, short for mutual exclusion, is a synchronization primitive used in multithreaded programming to ensure that only one thread can access a shared resource at a time.",
+            "In multithreaded programming, a mutex acts as a gatekeeper, preventing multiple threads from simultaneously accessing a critical section and avoiding data conflicts.",
+            "Mutex, derived from 'mutual exclusion,' is a mechanism in multithreaded programming that safeguards shared resources by allowing only one thread to access them at any given time.",
+            "The concept of a mutex involves providing exclusive access to shared resources in multithreaded environments, preventing data corruption and ensuring orderly execution of threads.",
+            "Mutex is a synchronization mechanism in multithreaded programming, serving as a tool to coordinate and control access to shared resources among different threads.",
+            "Multithreaded programming utilizes mutexes to manage access to shared data, preventing conflicts and maintaining the integrity of critical sections in concurrent execution.",
+            "A mutex is a fundamental element in multithreaded programming, ensuring that concurrent threads can safely access shared resources without leading to data inconsistencies.",
+            "In the realm of multithreaded programming, a mutex is a key component for enforcing exclusive access to critical sections, minimizing potential conflicts and race conditions.",
+            "Mutexes play a crucial role in multithreaded programming by providing a means to synchronize threads and avoid simultaneous access to shared resources, thus preventing data corruption.",
+            "The use of a mutex in multithreaded programming is essential for managing concurrency, as it allows threads to coordinate and access shared resources in a controlled and orderly manner."
+         ],
+         "context_set": ""
       }
    ]
 }
