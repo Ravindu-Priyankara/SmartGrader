@@ -79,10 +79,10 @@ CS
 57. What is cache memory, and how does it improve system performance?
 58. Describe the Von Neumann architecture of a computer.
 59. What is a bus in computer architecture, and what are its types?
-
 60. Explain the concept of pipelining in CPU design.
 61. What is the purpose of input and output (I/O) operations in computing?
 62. Describe the difference between synchronous and asynchronous I/O.
+
 63. Explain the concept of a mutex and its use in multithreaded programming.
 64. What is the difference between a socket and a port in networking?
 65. Describe the purpose of an HTTP request and response.
