@@ -1401,6 +1401,34 @@
             "A DBMS is a crucial system for handling databases, and an example is Redis, known for its key-value store functionality."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Describe the purpose of SQL (Structured Query Language).",
+            "What is the primary function of SQL (Structured Query Language)?",
+            "Explain the role of SQL (Structured Query Language) in database management.",
+            "Can you outline the main objectives of SQL (Structured Query Language)?",
+            "What does SQL (Structured Query Language) aim to achieve in the context of databases?",
+            "Elaborate on the significance of SQL (Structured Query Language) in managing database systems.",
+            "Define the purpose and utility of SQL (Structured Query Language) in data manipulation.",
+            "How does SQL (Structured Query Language) contribute to effective data retrieval and management?",
+            "Discuss the goals and applications of SQL (Structured Query Language) in database operations.",
+            "In what ways does SQL (Structured Query Language) serve the needs of database administrators?"
+         ],
+         "responses":[
+            "SQL is a programming language designed for managing and manipulating relational databases.",
+            "The primary purpose of SQL is to facilitate the interaction with and management of relational databases.",
+            "SQL serves as a standardized language for querying, updating, and managing databases.",
+            "The role of SQL is to provide a structured approach to accessing and manipulating data stored in databases.",
+            "SQL aims to enable efficient and secure communication with relational database systems.",
+            "SQL is essential for creating, modifying, and retrieving data in a relational database management system (RDBMS).",
+            "The purpose of SQL lies in its ability to define, control, and manage data stored in a relational database.",
+            "SQL is instrumental in ensuring data integrity, consistency, and security within database systems.",
+            "The primary goal of SQL is to provide a declarative language for querying and managing structured data.",
+            "SQL is a powerful tool that streamlines the process of interacting with and extracting meaningful information from databases."
+         ],
+         "context_set": ""
       }
    ]
 }
