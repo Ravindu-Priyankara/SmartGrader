@@ -1429,6 +1429,34 @@
             "SQL is a powerful tool that streamlines the process of interacting with and extracting meaningful information from databases."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "What are primary keys and foreign keys in a relational database?",
+            "Define the roles of primary keys and foreign keys in a relational database.",
+            "Can you explain the significance of primary keys and foreign keys in the context of a relational database?",
+            "Provide a definition for primary keys and foreign keys as they relate to relational databases.",
+            "Elaborate on the purpose and usage of primary keys and foreign keys in relational database systems.",
+            "In the realm of relational databases, what functions do primary keys and foreign keys serve?",
+            "How do primary keys and foreign keys contribute to the structure and integrity of a relational database?",
+            "Discuss the differences between primary keys and foreign keys in the context of relational databases.",
+            "What role do primary keys and foreign keys play in establishing relationships between tables within a relational database?",
+            "Could you detail the importance of primary keys and foreign keys for maintaining data integrity in a relational database?"
+         ],
+         "responses":[
+            "Primary keys are unique identifiers for records in a database, while foreign keys establish relationships between tables by linking to primary keys in other tables.",
+            "In a relational database, a primary key uniquely identifies each record in a table, and foreign keys create connections between tables based on these primary key relationships.",
+            "Primary keys are used to uniquely identify records in a database table, while foreign keys establish links between tables to maintain referential integrity.",
+            "The primary key is a unique identifier for records in a database table, and foreign keys create relationships between tables by referencing the primary key of another table.",
+            "In relational databases, primary keys uniquely identify records, and foreign keys create connections between tables by referencing the primary key of related records.",
+            "A primary key is a unique identifier for records in a database table, and foreign keys are used to establish relationships between tables by referencing primary keys in other tables.",
+            "Primary keys uniquely identify records in a database, while foreign keys establish relationships between tables to ensure referential integrity.",
+            "In a relational database, primary keys uniquely identify records in a table, and foreign keys create links between tables by referencing the primary key of related records.",
+            "A primary key uniquely identifies records in a database table, and foreign keys are used to create associations between tables based on these unique identifiers.",
+            "Primary keys serve as unique identifiers for records in a table, and foreign keys establish connections between tables by referencing the primary key of related records."
+         ],
+         "context_set": ""
       }
    ]
 }
