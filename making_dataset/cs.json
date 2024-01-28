@@ -1457,6 +1457,34 @@
             "Primary keys serve as unique identifiers for records in a table, and foreign keys establish connections between tables by referencing the primary key of related records."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Explain the concept of normalization in database design.",
+            "Define normalization and its role in shaping a well-structured database.",
+            "What is the significance of normalization in the context of database design?",
+            "Elaborate on the purpose and benefits of incorporating normalization techniques in database architecture.",
+            "Can you provide an overview of the concept of normalization and its application in designing efficient databases?",
+            "Discuss the rationale behind employing normalization in the design phase of a database system.",
+            "How does normalization contribute to improving data integrity and reducing redundancy in databases?",
+            "Examine the key principles underlying normalization and their impact on database performance.",
+            "In the context of database management, what does the term 'normalization' entail, and why is it crucial?",
+            "Provide insights into the goals and objectives achieved through the normalization process in database design."
+         ],
+         "responses":[
+            "Normalization in database design is the process of organizing data to reduce redundancy and dependency, ensuring efficient storage and retrieval.",
+            "Normalization involves breaking down large tables into smaller, related tables to minimize data duplication and maintain data integrity.",
+            "In simple terms, normalization is a technique used to structure a database efficiently by organizing data and relationships between tables.",
+            "The primary goal of normalization is to eliminate data anomalies and inconsistencies by organizing data into well-defined relationships.",
+            "Normalization helps in reducing data redundancy by structuring databases in a way that avoids unnecessary duplication of information.",
+            "By adhering to normalization principles, databases become more flexible, scalable, and less prone to anomalies during data manipulation.",
+            "Normalization ensures that a database is organized to minimize redundancy and dependency, promoting efficient data management and retrieval.",
+            "The normalization process involves dividing large tables into smaller, interrelated tables to improve data organization and reduce redundancy.",
+            "Normalization is crucial for maintaining data integrity, as it minimizes the chances of inconsistencies and errors within a database.",
+            "Efficient database design through normalization leads to improved performance, streamlined queries, and better overall data management."
+         ],
+         "context_set": ""
       }
    ]
 }
