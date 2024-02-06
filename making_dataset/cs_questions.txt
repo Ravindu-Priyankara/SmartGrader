@@ -37,8 +37,8 @@ DBMS
 32. Explain the role of a file system in managing data storage.
 What are the advantages and disadvantages of using a DBMS?
 Describe the three-level architecture of a DBMS.
-
 What is a data model, and why is it important in DBMS?
+
 Explain the difference between data manipulation language (DML) and data definition language (DDL).
 Discuss the concept of data redundancy and how a DBMS helps in reducing it.
 What is the difference between a database schema and a database instance?
