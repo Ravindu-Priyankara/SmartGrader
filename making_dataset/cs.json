@@ -1709,6 +1709,34 @@
             "Concurrency control becomes indispensable in a multi-user database environment to prevent issues like dirty reads, non-repeatable reads, and phantom reads, ensuring data consistency."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "What is a database transaction, and what are its properties?",
+            "Can you explain the concept of a database transaction and list its properties?",
+            "Define a database transaction and outline its characteristics.",
+            "Elaborate on what constitutes a database transaction and detail its attributes.",
+            "Could you describe what a database transaction is and enumerate its properties?",
+            "Provide an explanation of a database transaction along with its inherent properties.",
+            "In the context of databases, what defines a transaction and what properties does it possess?",
+            "Discuss the nature of a database transaction and identify its key properties.",
+            "What comprises a database transaction, and what distinctive properties does it exhibit?",
+            "Explain the concept of a database transaction, emphasizing its properties."
+         ],
+         "responses":[
+            "A database transaction is a unit of work performed within a database management system that must be executed completely or not at all. Its properties include atomicity, consistency, isolation, and durability (ACID).",
+            "A database transaction is a logical operation performed on a database that ensures data integrity and reliability. Its properties, commonly known as ACID properties, are atomicity, consistency, isolation, and durability.",
+            "A database transaction refers to a sequence of operations within a database that must be executed as a single unit. Its properties include atomicity, consistency, isolation, and durability, commonly abbreviated as ACID.",
+            "In the realm of databases, a transaction represents a cohesive set of operations that must be treated as a single unit. Its properties, known by the acronym ACID, are atomicity, consistency, isolation, and durability.",
+            "A database transaction is a fundamental concept denoting a series of actions within a database that must be performed as a whole. Its properties encompass atomicity, consistency, isolation, and durability, often referred to as the ACID properties.",
+            "A database transaction refers to a logical unit of work that must maintain certain properties for data integrity. These properties, commonly known as ACID properties, include atomicity, consistency, isolation, and durability.",
+            "When discussing databases, a transaction signifies a cohesive set of operations that must adhere to certain principles. These principles, encapsulated by the ACID properties, include atomicity, consistency, isolation, and durability.",
+            "A database transaction denotes a discrete set of operations performed within a database that must maintain specific properties. These properties, often described by the ACID acronym, comprise atomicity, consistency, isolation, and durability.",
+            "In the context of databases, a transaction represents a logical unit of work that ensures data integrity through various properties. These properties, commonly referred to as ACID properties, are atomicity, consistency, isolation, and durability.",
+            "A database transaction is a fundamental concept in database management systems, representing a group of operations that must satisfy certain properties for reliability. These properties, known as ACID properties, include atomicity, consistency, isolation, and durability."
+         ],
+         "context_set": ""
       }
    ]
 }
