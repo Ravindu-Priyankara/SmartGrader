@@ -1,0 +1,53 @@
+
+
+1. What is a computer network?
+2. Define the term "protocol" in the context of computer networks.
+3. Explain the difference between a LAN (Local Area Network) and a WAN (Wide Area Network).
+4. Discuss the advantages and disadvantages of using a peer-to-peer network.
+5. What is the purpose of the OSI model, and how does it help in understanding network communication?
+6. Define the terms "router" and "switch" in the context of networking.
+7. Discuss the role of TCP/IP in computer networking.
+8. Explain the concept of subnetting and its significance in IP addressing.
+9. What is a MAC address, and how is it used in networking?
+10. Discuss the differences between IPv4 and IPv6.
+11. Explain the purpose of DNS (Domain Name System) in networking.
+12. Define the terms "firewall" and "proxy server" and their roles in network security.
+13. What is the difference between half-duplex and full-duplex communication in networking?
+14. Discuss the concept of bandwidth and its importance in network performance.
+15. Explain the role of ARP (Address Resolution Protocol) in IP networks.
+16. Define the terms "hub," "switch," and "router" and explain their functions in a network.
+17. Discuss the benefits and challenges of wireless networking.
+18. What is the purpose of DHCP (Dynamic Host Configuration Protocol) in a network?
+19. Explain the concept of VLANs (Virtual Local Area Networks) in networking.
+20. Discuss the role of NAT (Network Address Translation) in IP networking.
+21. What is a subnet mask, and how is it used in IP addressing?
+22. Define the terms "routing" and "forwarding" in networking.
+23. Discuss the concept of a DMZ (Demilitarized Zone) in network security.
+24. Explain the difference between a hub and a switch in a network.
+25. What is the purpose of ICMP (Internet Control Message Protocol)?
+26. Discuss the role of QoS (Quality of Service) in network performance.
+27. Define the terms "latency" and "jitter" in the context of network performance.
+28. Explain the concept of a proxy server and its applications in network security.
+29. What is the purpose of a gateway in networking?
+30. Discuss the advantages and disadvantages of using a wired vs. wireless network.
+31. Define the terms "bandwidth" and "throughput" in the context of networking.
+32. Explain the role of a network administrator in managing a computer network.
+33. What is a packet, and how is data transmitted in packet-switched networks?
+34. Discuss the importance of collision detection in Ethernet networks.
+35. Explain the concept of a VLAN (Virtual Local Area Network) in network design.
+36. Define the terms "intrusion detection system (IDS)" and "intrusion prevention system (IPS)" in network security.
+37. Discuss the role of a proxy server in content filtering.
+38. What is the purpose of a MAC table in a network switch?
+39. Explain the concept of a subnet in the context of IP addressing.
+40. Define the terms "unicast," "broadcast," and "multicast" in networking.
+41. Discuss the differences between circuit-switched and packet-switched networks.
+42. Explain the concept of a MAN (Metropolitan Area Network) and its applications.
+43. Define the terms "ping" and "traceroute" and their uses in network troubleshooting.
+44. Discuss the concept of a DHCP lease and its importance in dynamic IP addressing.
+45. What is the role of NAT (Network Address Translation) in private IP addressing?
+46. Explain the differences between a hub, a switch, and a router.
+47. Discuss the concept of port forwarding in networking.
+48. Define the terms "subnet" and "supernet" in the context of IP addressing.
+49. Explain the concept of a proxy server in network security.
+50. Discuss the advantages and disadvantages of using a client-server network architecture.
+

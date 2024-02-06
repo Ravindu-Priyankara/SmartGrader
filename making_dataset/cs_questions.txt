@@ -34,8 +34,51 @@ DBMS
 28. What are primary keys and foreign keys in a relational database?
 29. Explain the concept of normalization in database design.
 30. What is a NoSQL database, and when is it suitable for use?
-
 32. Explain the role of a file system in managing data storage.
+What are the advantages and disadvantages of using a DBMS?
+Describe the three-level architecture of a DBMS.
+What is a data model, and why is it important in DBMS?
+Explain the difference between data manipulation language (DML) and data definition language (DDL).
+Discuss the concept of data redundancy and how a DBMS helps in reducing it.
+What is the difference between a database schema and a database instance?
+Explain the concept of concurrency control in a DBMS.
+What is a database transaction, and what are its properties?
+Describe the role of ACID properties in ensuring transaction reliability.
+Discuss the significance of data integrity constraints in a database.
+Explain the difference between a clustered and a non-clustered index.
+What is a composite key, and when is it used?
+Describe the concept of database normalization and its various normal forms.
+What are the advantages of using stored procedures in a DBMS?
+Explain the purpose of a database trigger and provide examples.
+Discuss the role of data warehousing in decision support systems.
+What is OLAP (Online Analytical Processing), and how does it differ from OLTP (Online Transaction Processing)?
+Explain the concept of data mining and its applications in DBMS.
+Describe the concept of a distributed database system.
+Discuss the challenges associated with data security in a DBMS.
+What is database replication, and why is it used?
+Explain the difference between horizontal and vertical partitioning of data.
+Describe the advantages of using views in a database.
+What is a database schema evolution, and why is it important?
+Discuss the concept of database sharding and its benefits.
+Explain the concept of acid rain problem and its resolution.
+What are the different types of data models used in database design?
+Describe the purpose of a database index and how it improves query performance.
+Discuss the concept of data aggregation in the context of databases.
+What is a database deadlock, and how can it be avoided?
+Explain the difference between logical and physical data independence.
+Describe the concept of data dictionary in a DBMS.
+What are the various types of joins in SQL, and how do they differ?
+Discuss the role of database caching in improving performance.
+Explain the concept of database normalization and its goals.
+What is a surrogate key, and when is it used in database design?
+Describe the purpose of database constraints and provide examples.
+Discuss the concept of referential integrity in relational databases.
+What is database denormalization, and when is it appropriate?
+Explain the concept of data mining and its applications in DBMS.
+What is the CAP theorem, and how does it relate to distributed databases?
+Describe the concept of database partitioning and its benefits.
+What is database tuning, and why is it important?
+Explain the concept of database replication and its use cases.
 
 Computer networks
 
@@ -114,4 +157,5 @@ CS
 98. What is the role of a product owner in Scrum methodology?
 
 100. What is the future of computer science and emerging trends in the field?
+
 

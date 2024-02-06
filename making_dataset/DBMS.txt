@@ -1,0 +1,54 @@
+
+
+1.
+2. Differentiate between DBMS and RDBMS.
+3. Explain the concept of data independence in DBMS.
+4. What is normalization in DBMS?
+5. Define the term 'data redundancy' and explain how DBMS helps in minimizing it.
+6. Discuss the advantages and disadvantages of using a DBMS.
+7. Explain the ACID properties in the context of database transactions.
+8. What is a database schema?
+9. Differentiate between a database and a database instance.
+10. Define primary key and foreign key constraints in a database.
+11. Discuss the differences between a heap file and a clustered file organization.
+12. Explain the concept of indexing in DBMS.
+13. What is the purpose of a transaction log in a DBMS?
+14. Discuss the role of SQL in DBMS.
+15. Explain the difference between DDL and DML in SQL.
+16. What is a trigger in DBMS? Provide an example.
+17. Define the terms 'concurrency control' and 'transaction isolation' in DBMS.
+18. Discuss the various types of joins in SQL.
+19. Explain the concept of data dictionary in DBMS.
+20. What is a view in a database? How is it different from a table?
+21. Define the terms 'tuple' and 'attribute' in the context of a relational database.
+22. Discuss the concept of normalization and its various normal forms.
+23. Explain the purpose of the SELECT statement in SQL.
+24. What is an ER diagram, and how is it used in database design?
+25. Discuss the concept of referential integrity in DBMS.
+26. Explain the difference between a clustered index and a non-clustered index.
+27. What is a deadlock in DBMS? How can it be prevented?
+28. Discuss the concept of acid rain problem in DBMS.
+29. Explain the difference between a stored procedure and a function in DBMS.
+30. What is data warehousing, and how does it differ from traditional databases?
+31. Explain the concept of OLAP (Online Analytical Processing) in DBMS.
+32. What are the different types of storage structures used in DBMS?
+33. Discuss the concept of data mining and its relevance in DBMS.
+34. Explain the concept of data mart.
+35. What is the role of a database administrator (DBA) in managing a DBMS?
+36. Discuss the concept of data replication in DBMS.
+37. What is the CAP theorem, and how does it relate to distributed databases?
+38. Explain the concept of data integrity constraints in DBMS.
+39. Discuss the concept of object-relational databases.
+40. What is the purpose of a transaction in DBMS?
+41. Explain the concept of normalization and why it is important in database design.
+42. Discuss the advantages and disadvantages of denormalization in DBMS.
+43. Explain the concept of a database index and its role in query optimization.
+44. What is the difference between a clustered and a non-clustered index?
+45. Discuss the concept of data warehouse and its importance in decision-making.
+46. What is a data model, and how does it relate to DBMS?
+47. Explain the difference between OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing) systems.
+48. Discuss the concept of data mining and its applications in DBMS.
+49. Explain the concept of a distributed database system.
+50. Discuss the role of data integrity in maintaining the quality of a database.
+
+These questions cover a wide range of topics related to DBMS and should provide a good basis for your assignment.
