@@ -1765,6 +1765,34 @@
             "ACID properties ensure transaction reliability by providing a solid foundation for executing database transactions in a manner that guarantees atomicity, consistency, isolation, and durability, thereby preserving the integrity and reliability of the database."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Discuss the significance of data integrity constraints in a database.",
+            "Why are data integrity constraints important in database management?",
+            "What role do data integrity constraints play in ensuring database reliability?",
+            "How do data integrity constraints contribute to database security?",
+            "Explain the relevance of data integrity constraints for maintaining data accuracy.",
+            "In what ways do data integrity constraints enhance database performance?",
+            "What are the consequences of neglecting data integrity constraints in a database?",
+            "How do data integrity constraints aid in data consistency within a database system?",
+            "What are some examples of data integrity constraints and their applications?",
+            "Can you elaborate on the impact of data integrity constraints on database design?"
+         ],
+         "responses":[
+            "Data integrity constraints ensure that data entered into a database meets certain standards, preventing errors and inconsistencies.",
+            "They help maintain the accuracy and reliability of data by enforcing rules such as uniqueness, referential integrity, and data types.",
+            "Data integrity constraints play a crucial role in database management by upholding the validity and consistency of data, which is essential for decision-making processes.",
+            "By enforcing constraints such as foreign key relationships and check constraints, data integrity constraints help protect against unauthorized access and manipulation of data.",
+            "Data integrity constraints are fundamental for preserving the correctness and completeness of data, which is essential for generating meaningful insights and reports.",
+            "Efficient use of data integrity constraints can lead to improved query performance and faster data retrieval times within a database system.",
+            "Neglecting data integrity constraints can result in data corruption, loss of data integrity, and ultimately, unreliable information for users.",
+            "Data integrity constraints ensure that data remains consistent across different tables and entities within a database, maintaining data coherence.",
+            "Examples of data integrity constraints include primary key constraints, unique constraints, foreign key constraints, and check constraints, each serving specific purposes in database management.",
+            "Consideration of data integrity constraints during the database design phase is crucial as it directly influences the structure and functionality of the database system."
+         ],
+         "context_set": ""
       }
    ]
 }
