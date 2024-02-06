@@ -1597,6 +1597,34 @@
             "In summary, a data model is a foundational concept in DBMS, providing a blueprint for organizing and structuring data within a database. Understanding data models is essential for designing efficient databases, ensuring data integrity, and optimizing the performance of database management systems."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Explain the difference between data manipulation language (DML) and data definition language (DDL).",
+            "What are the primary distinctions between data manipulation language (DML) and data definition language (DDL)?",
+            "Can you elucidate the disparities between data manipulation language (DML) and data definition language (DDL)?",
+            "In what ways do data manipulation language (DML) and data definition language (DDL) differ from each other?",
+            "Could you delineate the differences between data manipulation language (DML) and data definition language (DDL)?",
+            "What separates data manipulation language (DML) from data definition language (DDL) in terms of functionality?",
+            "How do data manipulation language (DML) and data definition language (DDL) contrast with each other?",
+            "What are the contrasting features of data manipulation language (DML) and data definition language (DDL)?",
+            "Explain the functional disparities between data manipulation language (DML) and data definition language (DDL).",
+            "What distinguishes data manipulation language (DML) from data definition language (DDL) in database management systems?"
+         ],
+         "responses":[
+            "Data manipulation language (DML) is used to retrieve, insert, update, and delete data in a database, while data definition language (DDL) is used to define the structure and schema of the database.",
+            "The primary distinction lies in their purposes: DML is for manipulating data within the database, whereas DDL is for defining the structure of the database.",
+            "DML primarily deals with data operations such as querying and modifying data, whereas DDL focuses on defining the database schema, including tables, relationships, and constraints.",
+            "The differences between DML and DDL are evident in their functionalities: DML operates on the data itself, while DDL operates on the structure of the data.",
+            "DML allows users to manipulate the existing data in the database, while DDL enables users to define and modify the database schema, such as creating or altering tables and indexes.",
+            "In terms of functionality, DML is oriented towards data manipulation tasks like querying and modifying records, while DDL is geared towards defining the database structure like creating tables, indexes, and constraints.",
+            "Data manipulation language (DML) is concerned with manipulating data stored in the database, whereas data definition language (DDL) is concerned with defining the database structure, including tables, views, and indexes.",
+            "The contrasting features between DML and DDL lie in their respective focuses: DML focuses on data manipulation operations like querying and updating, while DDL focuses on defining the database schema.",
+            "The functional disparities between DML and DDL are rooted in their purposes: DML is for data manipulation tasks, whereas DDL is for defining the structure of the data.",
+            "What distinguishes DML from DDL is their roles in database management systems: DML facilitates data manipulation operations, while DDL facilitates the definition and modification of the database structure."
+         ],
+         "context_set": ""
       }
    ]
 }
