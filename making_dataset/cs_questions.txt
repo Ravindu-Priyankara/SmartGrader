@@ -36,6 +36,7 @@ DBMS
 30. What is a NoSQL database, and when is it suitable for use?
 32. Explain the role of a file system in managing data storage.
 What are the advantages and disadvantages of using a DBMS?
+
 Describe the three-level architecture of a DBMS.
 What is a data model, and why is it important in DBMS?
 Explain the difference between data manipulation language (DML) and data definition language (DDL).
