@@ -47,8 +47,8 @@ Describe the role of ACID properties in ensuring transaction reliability.
 Discuss the significance of data integrity constraints in a database.
 Explain the difference between a clustered and a non-clustered index.
 What is a composite key, and when is it used?
-
 Describe the concept of database normalization and its various normal forms.
+
 What are the advantages of using stored procedures in a DBMS?
 Explain the purpose of a database trigger and provide examples.
 Discuss the role of data warehousing in decision support systems.

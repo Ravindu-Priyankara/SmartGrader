@@ -1849,6 +1849,34 @@
             "Considerations when defining a composite key include selecting the appropriate combination of columns to ensure uniqueness and considering the impact on query performance and database maintenance."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Describe the concept of database normalization and its various normal forms.",
+            "What is the purpose of database normalization and what are the different normal forms?",
+            "Explain the fundamentals of database normalization and enumerate the normal forms.",
+            "Can you elucidate the concept of database normalization and outline its different normal forms?",
+            "Discuss database normalization and the significance of adhering to its normal forms.",
+            "Elaborate on the concept of database normalization, including its various normal forms.",
+            "Could you provide an overview of database normalization and delineate the normal forms involved?",
+            "Break down the concept of database normalization and elucidate the progression of normal forms.",
+            "What are the principles underlying database normalization and how do they relate to normal forms?",
+            "Offer an explanation of database normalization and discuss the evolution of normal forms."
+         ],
+         "responses":[
+            "Database normalization is a process used to organize a database efficiently by reducing redundancy and dependency. It involves applying a series of rules, known as normal forms, to ensure data integrity and minimize anomalies.",
+            "The concept of database normalization revolves around structuring data in a relational database to eliminate redundancy and dependency. Normalization aims to improve data integrity and simplify database management.",
+            "Database normalization is the systematic organization of data in a database to reduce redundancy and improve data integrity. It involves breaking down a database into smaller, manageable parts called normal forms.",
+            "In essence, database normalization is a technique used to design relational database schemas to minimize redundancy and dependency. It involves progressively refining data structures through various normal forms to achieve an optimal database design.",
+            "Database normalization is a critical aspect of database design aimed at reducing redundancy and dependency. By adhering to normal forms, databases become more efficient, scalable, and easier to maintain.",
+            "At its core, database normalization is about organizing data in a database to eliminate redundancy and dependency. This is achieved through a series of normal forms, each addressing specific aspects of data organization and integrity.",
+            "The fundamental objective of database normalization is to reduce redundancy and dependency in a database schema. Normalization achieves this by applying a set of rules known as normal forms, which guide the process of structuring data.",
+            "Database normalization is a methodology used to structure data in a relational database to minimize redundancy and dependency. Through the application of normal forms, databases are optimized for efficiency and data integrity.",
+            "At its essence, database normalization involves organizing data in a way that minimizes redundancy and dependency, thus enhancing data integrity and simplifying database management. This is achieved through the systematic application of normal forms.",
+            "Database normalization is the process of structuring data in a database to minimize redundancy and dependency. This is accomplished through the application of normal forms, which progressively refine the database schema."
+         ],
+         "context_set": ""
       }
    ]
 }
