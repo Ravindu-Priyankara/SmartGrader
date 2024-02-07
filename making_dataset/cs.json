@@ -2381,6 +2381,34 @@
             "By integrating with the computer's operating system and network protocols, a network interface card (NIC) facilitates seamless communication between devices in a networked environment."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "Explain the concept of packet switching in data transmission.",
+            "What is the fundamental principle behind packet switching in data transmission?",
+            "How does packet switching facilitate data transmission?",
+            "Can you elucidate the mechanism of packet switching in the context of data transmission?",
+            "Describe the role of packet switching in modern data transmission networks.",
+            "What are the advantages of employing packet switching for data transmission?",
+            "In what way does packet switching differ from circuit switching in data transmission?",
+            "Could you provide a detailed explanation of packet switching and its significance in data transmission?",
+            "What factors contribute to the efficiency of packet switching in data transmission?",
+            "Discuss the evolution of packet switching and its impact on data transmission technology."
+         ],
+         "responses":[
+            "Packet switching in data transmission involves breaking data into small packets, which are then transmitted independently across a network.",
+            "The concept of packet switching revolves around dividing data into manageable packets that can be routed independently through a network.",
+            "Packet switching allows for efficient data transmission by sending discrete packets of information across a network, dynamically choosing the best route for each packet.",
+            "In packet switching, data is divided into packets that travel independently to their destination, where they are reassembled into the original data.",
+            "Packet switching is integral to modern data transmission networks as it enables efficient utilization of network resources and supports various types of traffic.",
+            "Employing packet switching for data transmission offers advantages such as increased flexibility, scalability, and resilience to network failures.",
+            "Packet switching differs from circuit switching in that it does not require dedicated communication channels, allowing for more efficient use of network resources.",
+            "Packet switching plays a crucial role in data transmission by breaking data into packets, which are transmitted independently, leading to more efficient utilization of network capacity.",
+            "The efficiency of packet switching in data transmission is influenced by factors such as packet size, network congestion, and routing algorithms.",
+            "The evolution of packet switching has revolutionized data transmission technology, enabling the creation of robust and scalable networks capable of handling diverse traffic types."
+         ],
+         "context_set": ""
       }
    ]
 }
