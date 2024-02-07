@@ -38,7 +38,6 @@ DBMS
 What are the advantages and disadvantages of using a DBMS?
 Describe the three-level architecture of a DBMS.
 What is a data model, and why is it important in DBMS?
-
 Explain the difference between data manipulation language (DML) and data definition language (DDL).
 Discuss the concept of data redundancy and how a DBMS helps in reducing it.
 What is the difference between a database schema and a database instance?
@@ -47,6 +46,7 @@ What is a database transaction, and what are its properties?
 Describe the role of ACID properties in ensuring transaction reliability.
 Discuss the significance of data integrity constraints in a database.
 Explain the difference between a clustered and a non-clustered index.
+
 What is a composite key, and when is it used?
 Describe the concept of database normalization and its various normal forms.
 What are the advantages of using stored procedures in a DBMS?

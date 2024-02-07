@@ -1793,6 +1793,34 @@
             "Consideration of data integrity constraints during the database design phase is crucial as it directly influences the structure and functionality of the database system."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Explain the difference between a clustered and a non-clustered index.",
+            "What are the key distinctions between a clustered and a non-clustered index?",
+            "Can you outline the contrast between a clustered index and a non-clustered index?",
+            "In what ways do clustered and non-clustered indexes differ?",
+            "Could you elucidate the differences between a clustered index and a non-clustered index?",
+            "What separates a clustered index from a non-clustered index?",
+            "How do clustered and non-clustered indexes differ in their functioning?",
+            "What are the distinguishing features of a clustered index compared to a non-clustered index?",
+            "What's the difference between a clustered index and a non-clustered index?",
+            "Could you clarify the disparity between a clustered and a non-clustered index?"
+         ],
+         "responses":[
+            "A clustered index determines the physical order of data rows in a table, whereas a non-clustered index does not.",
+            "In a clustered index, the actual data rows are stored in the order of the index key, while in a non-clustered index, the data rows are stored separately from the index.",
+            "A clustered index reorders the way records in the table are physically stored, while a non-clustered index creates a separate structure to organize the data.",
+            "The primary difference lies in how the data is organized on disk: a clustered index physically rearranges the data, while a non-clustered index creates a separate structure.",
+            "Clustered indexes store data rows physically on the disk in the order of the index key, whereas non-clustered indexes store a separate list of keys with pointers to the actual data rows.",
+            "Clustered indexes directly dictate the physical order of the data rows, while non-clustered indexes only dictate the logical order.",
+            "A clustered index alters the physical layout of the table data, whereas a non-clustered index adds a separate structure to facilitate quicker data retrieval.",
+            "Clustered indexes are akin to sorting a phone book by last name where entries are physically reorganized, while non-clustered indexes are like an index at the end of the book directing you to specific pages without rearranging the entries.",
+            "Clustered indexes rearrange the way data is stored on disk to match the index order, while non-clustered indexes create a separate list to reference data locations.",
+            "In essence, a clustered index changes the physical order of the data rows, while a non-clustered index creates an additional structure to assist in data retrieval."
+         ],
+         "context_set": ""
       }
    ]
 }
