@@ -2073,6 +2073,34 @@
             "Database replication is implemented to improve system reliability and availability by creating redundant copies of the database that can be used in case of failures or disasters."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Explain the difference between horizontal and vertical partitioning of data.",
+            "What are the primary distinctions between horizontal and vertical partitioning of data?",
+            "Can you elucidate the disparities between horizontal and vertical partitioning of data?",
+            "In what ways do horizontal and vertical partitioning of data differ from each other?",
+            "Could you outline the contrast between horizontal and vertical partitioning of data?",
+            "What separates horizontal partitioning from vertical partitioning of data?",
+            "How do horizontal and vertical partitioning of data diverge?",
+            "What are the distinguishing factors between horizontal and vertical partitioning of data?",
+            "What distinguishes horizontal partitioning of data from vertical partitioning?",
+            "Could you differentiate horizontal partitioning of data from vertical partitioning?"
+         ],
+         "responses":[
+            "Horizontal partitioning involves dividing data into multiple tables based on rows, while vertical partitioning involves splitting data into multiple tables based on columns.",
+            "The main difference lies in how data is divided: horizontally by rows for horizontal partitioning and vertically by columns for vertical partitioning.",
+            "Horizontal partitioning separates data into distinct tables based on rows, whereas vertical partitioning divides data into separate tables based on columns.",
+            "Horizontal partitioning focuses on dividing data across tables based on rows, whereas vertical partitioning divides data based on columns into separate tables.",
+            "Horizontal partitioning divides data based on rows into separate tables, while vertical partitioning splits data based on columns into distinct tables.",
+            "The key distinction is in the orientation of division: horizontal partitioning divides data by rows, while vertical partitioning divides data by columns.",
+            "Horizontal partitioning segments data into different tables based on rows, whereas vertical partitioning segments data into tables based on columns.",
+            "Horizontal partitioning separates data into tables based on rows, whereas vertical partitioning separates data into tables based on columns.",
+            "Horizontal partitioning divides data into separate tables based on rows, while vertical partitioning divides data into separate tables based on columns.",
+            "Horizontal partitioning distributes data across tables based on rows, while vertical partitioning distributes data across tables based on columns."
+         ],
+         "context_set": ""
       }
    ]
 }
