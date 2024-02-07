@@ -2437,6 +2437,34 @@
             "The evolution of packet switching has revolutionized data transmission technology, enabling the creation of robust and scalable networks capable of handling diverse traffic types."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "Describe the process of subnetting in IP addressing.",
+            "What are the key steps involved in subnetting within IP addressing?",
+            "Explain the concept of subnetting and its role in IP addressing.",
+            "Can you outline the procedure for subnetting in IP addressing?",
+            "How does subnetting work in the context of IP addressing?",
+            "Break down the process of subnetting within IP addressing.",
+            "In IP addressing, what steps are taken in subnetting?",
+            "Could you elucidate the subnetting process as it pertains to IP addressing?",
+            "What is the method behind subnetting in IP addressing?",
+            "Discuss the mechanics of subnetting in IP addressing."
+         ],
+         "responses":[
+            "Subnetting in IP addressing involves dividing a network into smaller subnetworks to efficiently manage and allocate IP addresses.",
+            "The process of subnetting in IP addressing begins with dividing the host portion of an IP address into two parts: the network prefix and the host identifier.",
+            "Subnetting allows for better organization and optimization of IP addresses within a network by breaking it down into smaller, more manageable segments.",
+            "In subnetting, network administrators can customize network sizes according to specific requirements, improving overall network performance and security.",
+            "The subnetting process involves creating subnets by borrowing bits from the host portion of an IP address, thereby creating multiple smaller networks within a larger one.",
+            "Through subnetting, IP addressing becomes more efficient as it enables the allocation of IP addresses based on the unique needs of different segments within a network.",
+            "Subnetting enhances network scalability by facilitating the expansion or contraction of individual subnetworks without affecting the overall network structure.",
+            "By subnetting, administrators can implement better control over network traffic flow and optimize routing efficiency within an IP-based network.",
+            "Subnetting enables the implementation of more granular security policies and access controls within a network, enhancing overall network security posture.",
+            "Overall, subnetting in IP addressing is a crucial process for managing and organizing IP networks, providing flexibility, efficiency, and improved network performance."
+         ],
+         "context_set": ""
       }
    ]
 }
