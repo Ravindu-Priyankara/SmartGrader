@@ -2101,6 +2101,34 @@
             "Horizontal partitioning distributes data across tables based on rows, while vertical partitioning distributes data across tables based on columns."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Describe the advantages of using views in a database.",
+            "What are the benefits of incorporating views within a database system?",
+            "Explain the perks associated with utilizing views in a database environment.",
+            "What advantages do views offer when employed in database management?",
+            "Enumerate the advantages of integrating views into a database setup.",
+            "Can you outline the advantages that views bring to a database structure?",
+            "What are the strengths of utilizing views in the context of a database?",
+            "Elaborate on the advantages of incorporating views into a database design.",
+            "What are the upsides of employing views in a database architecture?",
+            "In what ways do views enhance database functionality and management?"
+         ],
+         "responses":[
+            "Views provide a simplified and abstracted interface to the underlying data, making it easier to query and manipulate.",
+            "Using views can enhance security by allowing users to access only specific portions of the database, thus limiting exposure to sensitive data.",
+            "Views help in encapsulating complex queries, reducing the complexity of application code and promoting code reusability.",
+            "By predefining commonly used joins and filters, views can improve query performance and optimize database operations.",
+            "Views offer a way to present data in a customized format tailored to the needs of different users or applications.",
+            "With views, database administrators can implement data abstraction layers, shielding users from changes in the underlying schema.",
+            "Views support data integrity by enforcing constraints and business rules at the database level, ensuring consistency and reliability.",
+            "Utilizing views can streamline the development process by abstracting away the complexities of the database schema.",
+            "Views facilitate data aggregation and summarization, enabling users to derive meaningful insights from large datasets.",
+            "Views can simplify the migration process by providing a layer of abstraction that shields applications from changes in the underlying database structure."
+         ],
+         "context_set": ""
       }
    ]
 }

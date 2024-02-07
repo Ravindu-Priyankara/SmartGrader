@@ -56,8 +56,8 @@ Explain the concept of data mining and its applications in DBMS.
 Describe the concept of a distributed database system.
 Discuss the challenges associated with data security in a DBMS.
 What is database replication, and why is it used?
-
 Explain the difference between horizontal and vertical partitioning of data.
+
 Describe the advantages of using views in a database.
 What is a database schema evolution, and why is it important?
 Discuss the concept of database sharding and its benefits.
