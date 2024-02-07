@@ -1821,6 +1821,34 @@
             "In essence, a clustered index changes the physical order of the data rows, while a non-clustered index creates an additional structure to assist in data retrieval."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "What is a composite key, and when is it used?",
+            "When might one consider implementing a composite key?",
+            "In what scenarios would a composite key be advantageous?",
+            "Can you explain the concept of a composite key and its applications?",
+            "How does a composite key differ from a simple key, and when should each be utilized?",
+            "What are the practical implications of employing a composite key in database design?",
+            "Under what circumstances would a database designer opt for a composite key over a single primary key?",
+            "Could you provide examples of situations where a composite key would be necessary?",
+            "What factors influence the decision to use a composite key in relational database modeling?",
+            "What considerations should be taken into account when defining a composite key?"
+         ],
+         "responses":[
+            "A composite key is a combination of two or more columns that uniquely identify a record in a database table. It is used when a single column cannot guarantee uniqueness.",
+            "Implementing a composite key is often considered when a table requires multiple columns to uniquely identify each row.",
+            "A composite key is advantageous in scenarios where a single attribute cannot uniquely identify a record, but a combination of attributes can.",
+            "A composite key is a set of columns that, taken together, uniquely identify each record in a table. It is commonly used in database design to ensure data integrity and prevent duplicates.",
+            "A composite key differs from a simple key in that it comprises multiple columns rather than a single column. Each should be utilized based on the unique requirements of the database schema.",
+            "Employing a composite key in database design can streamline data retrieval and ensure accurate data representation, particularly in complex relational databases.",
+            "Database designers might opt for a composite key over a single primary key when multiple attributes are needed to uniquely identify records within a table.",
+            "Examples of situations requiring a composite key include a table tracking orders, where uniqueness is determined by a combination of customer ID and order ID.",
+            "The decision to use a composite key in relational database modeling is influenced by factors such as data structure, normalization requirements, and performance considerations.",
+            "Considerations when defining a composite key include selecting the appropriate combination of columns to ensure uniqueness and considering the impact on query performance and database maintenance."
+         ],
+         "context_set": ""
       }
    ]
 }
