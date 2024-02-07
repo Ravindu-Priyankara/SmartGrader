@@ -2301,16 +2301,16 @@
       {
          "tag":"CN",
          "patterns":[
-            "What is an IP address and its significance in networking?",
-            "What exactly is meant by an IP address and why is it important in networking?",
-            "Could you explain the concept of an IP address and its role within networking?",
-            "Why is understanding the function of an IP address crucial in the realm of networking?",
-            "Can you elaborate on the significance of an IP address in the context of networking?",
-            "In networking, what does an IP address refer to and why is it significant?",
-            "What role does an IP address play in networking and why is it considered important?",
-            "Could you discuss the importance of an IP address in the domain of networking?",
-            "What is the relevance of an IP address in networking and why is it noteworthy?",
-            "How does an IP address contribute to networking and why is it of significance?"
+            "What is the Internet of Things (IoT), and how does it work?",
+            "What exactly is the Internet of Things (IoT), and what are its mechanics?",
+            "Could you explain the concept of the Internet of Things (IoT) and its operational principles?",
+            "Can you elaborate on the Internet of Things (IoT) and elucidate its functionality?",
+            "Define the Internet of Things (IoT) and outline its operational mechanisms, please.",
+            "Provide an explanation of the Internet of Things (IoT) and delve into its operational framework.",
+            "What constitutes the Internet of Things (IoT) and how does its operational model function?",
+            "Could you shed some light on the Internet of Things (IoT) and its modus operandi?",
+            "Discuss the Internet of Things (IoT) and elucidate how it operates.",
+            "Inquire about the Internet of Things (IoT) and its mode of operation, if you would."
          ],
          "responses":[
             "An IP address, short for Internet Protocol address, is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. Its significance in networking lies in its role as a unique identifier for devices, enabling them to communicate with each other over a network.",
