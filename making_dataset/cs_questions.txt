@@ -51,11 +51,11 @@ Describe the concept of database normalization and its various normal forms.
 What are the advantages of using stored procedures in a DBMS?
 Explain the purpose of a database trigger and provide examples.
 Discuss the role of data warehousing in decision support systems.
-
 What is OLAP (Online Analytical Processing), and how does it differ from OLTP (Online Transaction Processing)?
 Explain the concept of data mining and its applications in DBMS.
 Describe the concept of a distributed database system.
 Discuss the challenges associated with data security in a DBMS.
+
 What is database replication, and why is it used?
 Explain the difference between horizontal and vertical partitioning of data.
 Describe the advantages of using views in a database.
