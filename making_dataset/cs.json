@@ -1877,6 +1877,34 @@
             "Database normalization is the process of structuring data in a database to minimize redundancy and dependency. This is accomplished through the application of normal forms, which progressively refine the database schema."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "What are the advantages of using stored procedures in a DBMS?",
+            "What benefits do stored procedures offer in a database management system?",
+            "How do stored procedures provide advantages within a DBMS?",
+            "In what ways can stored procedures enhance performance in a database system?",
+            "What are the perks of employing stored procedures in database management?",
+            "What advantages do stored procedures bring to the table in a DBMS context?",
+            "Why might one choose to utilize stored procedures in a database management system?",
+            "What are the strengths of incorporating stored procedures in a DBMS architecture?",
+            "What efficiencies can be gained by using stored procedures in a database system?",
+            "What are some of the reasons for leveraging stored procedures in a DBMS?"
+         ],
+         "responses":[
+            "Stored procedures can improve database performance by reducing network traffic.",
+            "Using stored procedures can enhance security by controlling access to data.",
+            "Stored procedures promote code reusability and maintainability.",
+            "They can optimize query execution plans, leading to faster data retrieval.",
+            "Stored procedures allow for centralized business logic implementation.",
+            "Using stored procedures can reduce the risk of SQL injection attacks.",
+            "They enable better scalability and manageability of database systems.",
+            "Stored procedures can simplify complex database operations.",
+            "They facilitate better teamwork among developers working on database-related tasks.",
+            "Using stored procedures can enhance database transaction management."
+         ],
+         "context_set": ""
       }
    ]
 }
