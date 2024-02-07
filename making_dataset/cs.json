@@ -1905,6 +1905,34 @@
             "Using stored procedures can enhance database transaction management."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Explain the purpose of a database trigger and provide examples.",
+            "What role does a database trigger serve, and could you furnish examples to illustrate?",
+            "How would you describe the function of a database trigger, and can you give some instances where it's used?",
+            "Can you elucidate on the significance of a database trigger and offer some practical examples?",
+            "In what ways do database triggers contribute to database management, and can you cite specific cases?",
+            "Could you outline the purpose behind employing a database trigger and offer concrete examples?",
+            "What is the primary objective of implementing a database trigger, and can you showcase its utility through examples?",
+            "Can you elaborate on why database triggers are utilized and provide instances to clarify?",
+            "What are the main motivations for incorporating a database trigger, and could you present examples to illustrate its functionality?",
+            "How do database triggers add value to database systems, and can you demonstrate this with examples?"
+         ],
+         "responses":[
+            "A database trigger serves to automatically execute a set of actions in response to certain database events. For example, a trigger can be used to enforce referential integrity or log changes to a table.",
+            "Database triggers play a crucial role in automating database tasks and enforcing business rules. For instance, a trigger can be implemented to update a secondary table whenever a certain condition is met in the primary table.",
+            "The function of a database trigger is to respond to specific events in the database, such as insertions, updates, or deletions, and execute predefined actions accordingly. An example would be a trigger that sends an email notification whenever a new record is inserted into a customer complaints table.",
+            "A database trigger is significant for maintaining data integrity and enforcing business logic within the database. For example, a trigger can be used to prevent deletion of records in a critical table during certain hours of the day.",
+            "Database triggers contribute to database management by automating routine tasks and enforcing data consistency. For instance, a trigger can be employed to enforce complex security policies by restricting access to sensitive information based on user roles.",
+            "Employing a database trigger helps ensure data integrity and consistency by automatically enforcing rules and validations. An example scenario could involve a trigger that calculates and updates aggregate values whenever related records are modified.",
+            "The primary objective of implementing a database trigger is to automate tasks and maintain data integrity. For instance, a trigger can be used to enforce complex authorization rules by logging access attempts and denying unauthorized actions.",
+            "Database triggers are utilized to enforce business rules and maintain data integrity by automating certain actions within the database. An example would be a trigger that updates inventory levels after a sale transaction is completed.",
+            "The main motivations for incorporating a database trigger include automating repetitive tasks and enforcing data consistency. For instance, a trigger can be implemented to archive old records from a transaction table to improve database performance.",
+            "Database triggers add value to database systems by automating processes and enforcing data integrity constraints. An example scenario could involve a trigger that sends notifications to managers when certain sales targets are met."
+         ],
+         "context_set": ""
       }
    ]
 }
