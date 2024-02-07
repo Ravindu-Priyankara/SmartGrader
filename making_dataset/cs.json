@@ -2157,6 +2157,34 @@
             "The importance of database schema evolution stems from its role in enabling databases to evolve over time, ensuring that they can accommodate changes in data models, business rules, and application requirements effectively."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "Describe the purpose of a network protocol.",
+            "What is the function of a network protocol?",
+            "Explain the role of a network protocol.",
+            "In what way do network protocols facilitate communication?",
+            "How do network protocols ensure effective data transmission?",
+            "What are the objectives of implementing network protocols?",
+            "Why are network protocols essential for networking?",
+            "What do network protocols regulate within a network?",
+            "What is the significance of adhering to network protocols?",
+            "How do network protocols contribute to network security?"
+         ],
+         "responses":[
+            "A network protocol defines rules and conventions for communication between devices in a network.",
+            "The purpose of a network protocol is to establish standards for data exchange and communication between devices.",
+            "Network protocols serve to facilitate the efficient and reliable transfer of data across a network infrastructure.",
+            "The function of a network protocol is to enable devices to understand and interpret data sent over a network.",
+            "Network protocols ensure that data is transmitted in a structured and orderly manner, reducing errors and ensuring reliable communication.",
+            "Implementing network protocols aims to achieve interoperability and seamless communication between diverse network devices and systems.",
+            "Network protocols are essential for networking as they provide a common language and framework for devices to communicate effectively.",
+            "Within a network, protocols regulate aspects such as data formatting, addressing, routing, and error detection.",
+            "Adhering to network protocols is significant for maintaining compatibility and consistency in network communications.",
+            "Network protocols contribute to network security by defining mechanisms for authentication, encryption, and access control."
+         ],
+         "context_set": ""
       }
    ]
 }
