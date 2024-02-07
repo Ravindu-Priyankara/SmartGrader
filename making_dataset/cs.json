@@ -2521,6 +2521,34 @@
             "The primary uses of a subnet mask in networking include partitioning networks, optimizing routing, and conserving IP addresses."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "How does ARP (Address Resolution Protocol) work in computer networks?",
+            "What is the purpose of ARP (Address Resolution Protocol) in computer networks?",
+            "Can you explain the functioning of ARP (Address Resolution Protocol) in computer networks?",
+            "Why is ARP (Address Resolution Protocol) important in computer networks?",
+            "In what manner does ARP (Address Resolution Protocol) facilitate communication in computer networks?",
+            "Describe the operation of ARP (Address Resolution Protocol) within computer networks.",
+            "What role does ARP (Address Resolution Protocol) play in the context of computer networking?",
+            "How does ARP (Address Resolution Protocol) assist in the process of data transmission in computer networks?",
+            "What are the key components involved in ARP (Address Resolution Protocol) operation within computer networks?",
+            "What are the implications of ARP (Address Resolution Protocol) on network performance and efficiency?"
+         ],
+         "responses":[
+            "ARP (Address Resolution Protocol) works by mapping IP addresses to MAC addresses in computer networks.",
+            "The purpose of ARP (Address Resolution Protocol) in computer networks is to resolve IP addresses to MAC addresses.",
+            "ARP (Address Resolution Protocol) functions by broadcasting a request for the MAC address corresponding to a given IP address.",
+            "ARP (Address Resolution Protocol) is important in computer networks because it enables devices to communicate by resolving IP addresses to MAC addresses.",
+            "ARP (Address Resolution Protocol) facilitates communication in computer networks by resolving IP addresses to MAC addresses, allowing devices to communicate within the network.",
+            "ARP (Address Resolution Protocol) operates within computer networks by dynamically mapping IP addresses to MAC addresses.",
+            "ARP (Address Resolution Protocol) plays a crucial role in computer networking by enabling devices to communicate by resolving IP addresses to MAC addresses.",
+            "ARP (Address Resolution Protocol) assists in the process of data transmission in computer networks by resolving IP addresses to MAC addresses, facilitating communication between devices.",
+            "The key components involved in ARP (Address Resolution Protocol) operation within computer networks include ARP requests, ARP replies, and ARP caches.",
+            "ARP (Address Resolution Protocol) has implications on network performance and efficiency by ensuring efficient communication between devices through the resolution of IP addresses to MAC addresses."
+         ],
+         "context_set": ""
       }
    ]
 }

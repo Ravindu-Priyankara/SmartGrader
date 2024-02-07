@@ -91,6 +91,30 @@ Computer networks
 41. Define the term "router" and its role in packet forwarding.
 78. What is the Internet of Things (IoT), and how does it work?
 79. Describe the concept of edge computing in IoT.
+What is the role of a network interface card (NIC) in a computer network?
+Explain the concept of packet switching in data transmission.
+What are the advantages and disadvantages of wired and wireless networks?
+Describe the process of subnetting in IP addressing.
+What is the purpose of a subnet mask in networking?
+Explain the difference between a hub, a switch, and a router.
+
+How does ARP (Address Resolution Protocol) work in computer networks?
+What is the purpose of DNS (Domain Name System) in the context of networking?
+Describe the function of a firewall in network security.
+What are the different types of network topologies? Provide examples.
+Explain the concept of VLANs (Virtual Local Area Networks).
+What is DHCP (Dynamic Host Configuration Protocol), and how does it work?
+Describe the role of NAT (Network Address Translation) in IP addressing.
+What is the difference between half-duplex and full-duplex communication?
+Explain the concept of Quality of Service (QoS) in network management.
+What are the primary differences between IPv4 and IPv6?
+Describe the purpose and operation of MAC (Media Access Control) addresses.
+What is a subnet, and how does it relate to network addressing?
+Explain the concept of multiplexing in network communication.
+Describe the role of a proxy server in network architecture.
+What is a virtual private network (VPN), and how does it provide secure communication?
+Explain the concept of bandwidth in the context of network performance.
+What is a network gateway, and what role does it play in routing traffic between networks?
 
 cybersecurity
 
