@@ -1989,6 +1989,34 @@
             "Examples of how data mining is applied within DBMS include customer segmentation for targeted marketing, fraud detection in financial transactions, predictive maintenance in manufacturing, sentiment analysis in social media, and healthcare analytics for personalized medicine."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"DBMS",
+         "patterns":[
+            "Describe the concept of a distributed database system.",
+            "What is the definition of a distributed database system?",
+            "Explain the principles behind a distributed database system.",
+            "How would you characterize a distributed database system?",
+            "In what ways does a distributed database system differ from a centralized one?",
+            "Can you elaborate on the architecture of a distributed database system?",
+            "What are the advantages of implementing a distributed database system?",
+            "Discuss the scalability aspect of a distributed database system.",
+            "What challenges are associated with managing a distributed database system?",
+            "What role does data replication play in a distributed database system?"
+         ],
+         "responses":[
+            "A distributed database system is a network of interconnected databases spread across different locations, working together to manage and store data.",
+            "It refers to a database management system that stores data across multiple nodes or locations while presenting the data as a single database to the users.",
+            "The concept involves breaking down a database into smaller parts, each stored in different physical locations, allowing for better performance, fault tolerance, and scalability.",
+            "A distributed database system is characterized by its ability to distribute data processing tasks across multiple nodes, enabling parallel processing and improved efficiency.",
+            "Unlike a centralized database system where all data is stored in one location, a distributed system spreads data across various nodes, enhancing reliability and performance.",
+            "The architecture typically consists of multiple nodes interconnected through a network, with each node responsible for storing and processing a portion of the data.",
+            "Implementing a distributed database system offers benefits such as improved fault tolerance, reduced data latency, and enhanced scalability to handle growing data volumes.",
+            "Scalability in a distributed database system refers to its ability to accommodate increased workload and data volume by adding more nodes to the network.",
+            "Managing a distributed database system poses challenges such as ensuring data consistency, maintaining synchronization among nodes, and dealing with network latency.",
+            "Data replication plays a crucial role in distributed database systems by ensuring data availability and fault tolerance, allowing multiple copies of data to be stored across different nodes."
+         ],
+         "context_set": ""
       }
    ]
 }
