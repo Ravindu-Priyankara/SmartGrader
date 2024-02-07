@@ -2353,6 +2353,34 @@
             "Real-world examples of edge computing in IoT include smart city applications, industrial automation systems, autonomous vehicles, and wearable health monitoring devices, all of which leverage edge computing for improved performance and efficiency."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "What is the role of a network interface card (NIC) in a computer network?",
+            "What functions does a network interface card (NIC) perform within a computer network?",
+            "How does a network interface card (NIC) contribute to the functioning of a computer network?",
+            "Explain the significance of a network interface card (NIC) in the context of computer networking.",
+            "In what ways does a network interface card (NIC) facilitate communication in a computer network?",
+            "What are the responsibilities of a network interface card (NIC) within a computer network infrastructure?",
+            "Describe the duties carried out by a network interface card (NIC) in the operation of a computer network.",
+            "What are the primary tasks assigned to a network interface card (NIC) in a computer network environment?",
+            "Elaborate on the purpose and utility of a network interface card (NIC) in computer networking.",
+            "How does a network interface card (NIC) contribute to the connectivity and functionality of a computer network?"
+         ],
+         "responses":[
+            "A network interface card (NIC) serves as the bridge between a computer and a network, enabling communication by translating data between the two.",
+            "The primary role of a network interface card (NIC) is to establish a connection between a computer and a network, allowing data transfer and communication.",
+            "A network interface card (NIC) facilitates data transmission by converting digital signals from a computer into a format suitable for transmission over a network medium.",
+            "In a computer network, a network interface card (NIC) acts as the interface through which data is sent and received, ensuring seamless communication between devices.",
+            "The presence of a network interface card (NIC) in a computer system enables it to connect to a network, enabling access to resources and services available on the network.",
+            "Network interface cards (NICs) play a vital role in computer networking by providing the necessary hardware interface for devices to communicate over a network.",
+            "A network interface card (NIC) enables a computer to participate in network activities by providing the physical connection and necessary protocols for communication.",
+            "Through its hardware and software components, a network interface card (NIC) enables computers to send and receive data packets across a network infrastructure.",
+            "The functionality of a network interface card (NIC) encompasses tasks such as packet transmission, error detection, and protocol handling, crucial for network communication.",
+            "By integrating with the computer's operating system and network protocols, a network interface card (NIC) facilitates seamless communication between devices in a networked environment."
+         ],
+         "context_set": ""
       }
    ]
 }
