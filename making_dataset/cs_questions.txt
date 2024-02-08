@@ -111,8 +111,8 @@ Describe the purpose and operation of MAC (Media Access Control) addresses.
 What is a subnet, and how does it relate to network addressing?
 Explain the concept of multiplexing in network communication.
 Describe the role of a proxy server in network architecture.
-
 What is a virtual private network (VPN), and how does it provide secure communication?
+
 Explain the concept of bandwidth in the context of network performance.
 What is a network gateway, and what role does it play in routing traffic between networks?
 
