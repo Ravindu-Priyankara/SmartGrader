@@ -2605,6 +2605,34 @@
             "Firewalls are integral to network security as they enforce access control policies, monitor traffic for suspicious activities, and block unauthorized access attempts, thereby helping to maintain the confidentiality, integrity, and availability of network resources."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "What are the different types of network topologies? Provide examples.",
+            "What are the various network topologies and can you give examples for each?",
+            "Can you outline the diverse network topologies and furnish examples to illustrate?",
+            "Enumerate the types of network topologies and include examples to elucidate.",
+            "Could you elucidate on the different network topologies, offering examples for clarity?",
+            "List the various network topologies along with examples for better understanding.",
+            "How would you categorize network topologies and can you provide instances for each category?",
+            "Discuss the different network topologies and cite examples to enhance comprehension.",
+            "What classifications do network topologies fall into, and could you give specific examples for each?",
+            "Provide an overview of network topologies, highlighting examples to illustrate each type."
+         ],
+         "responses":[
+            "Network topologies can include bus, star, ring, mesh, and hybrid configurations. For instance, an example of a bus topology is Ethernet, while a star topology can be seen in a typical home Wi-Fi network.",
+            "Some common network topologies are bus, ring, star, mesh, and hybrid. An example of a bus network is found in old Ethernet installations, while a star network is exemplified by modern Ethernet LANs.",
+            "Network topologies vary and can be categorized into bus, star, ring, mesh, and hybrid setups. For example, a bus network can be observed in simple Ethernet connections, whereas a star network is commonly found in modern LAN architectures.",
+            "Various network topologies exist, including bus, star, ring, mesh, and hybrid configurations. An illustration of a bus topology is the old Ethernet system, while a star topology is evident in many modern LAN setups.",
+            "Different types of network topologies include bus, star, ring, mesh, and hybrid designs. An example of a bus topology is the Ethernet, while a star topology is commonly found in local area networks.",
+            "Network topologies encompass bus, star, ring, mesh, and hybrid arrangements. For example, a bus topology can be seen in traditional Ethernet setups, while a star topology is prevalent in modern LAN configurations.",
+            "Various network topologies such as bus, star, ring, mesh, and hybrid are in use. An example of a bus topology is the original Ethernet system, while a star topology is evident in many contemporary LAN setups.",
+            "Network topologies come in different forms including bus, star, ring, mesh, and hybrid setups. For instance, a bus topology is illustrated in the structure of older Ethernet networks, while a star topology is seen in many modern LAN architectures.",
+            "Different network topologies encompass bus, star, ring, mesh, and hybrid configurations. A bus topology can be exemplified by older Ethernet networks, while a star topology is characteristic of many current LAN setups.",
+            "Network topologies can be classified into various types such as bus, star, ring, mesh, and hybrid. Examples include Ethernet for bus topology and modern LANs for star topology."
+         ],
+         "context_set": ""
       }
    ]
 }  
