@@ -2773,6 +2773,34 @@
             "Implementing Quality of Service (QoS) strategies within a network may face challenges such as compatibility issues, complex configuration, and the need for continuous monitoring and adjustment."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "What are the primary differences between IPv4 and IPv6?",
+            "What fundamental variances exist between IPv4 and IPv6?",
+            "Could you outline the main disparities between IPv4 and IPv6?",
+            "In what ways do IPv4 and IPv6 fundamentally differ?",
+            "Can you elucidate the key variations between IPv4 and IPv6?",
+            "What distinguishable features separate IPv4 from IPv6?",
+            "What significant variances characterize IPv4 as opposed to IPv6?",
+            "How do IPv4 and IPv6 contrast with each other?",
+            "What are the key distinctions between IPv4 and IPv6?",
+            "What are the primary differences in functionality between IPv4 and IPv6?"
+         ],
+         "responses":[
+            "IPv4 uses 32-bit addresses while IPv6 uses 128-bit addresses.",
+            "IPv6 has a much larger address space compared to IPv4.",
+            "IPv6 includes built-in support for security features such as IPsec, whereas IPv4 requires additional protocols for similar functionalities.",
+            "IPv4 uses ARP (Address Resolution Protocol) to map IP addresses to MAC addresses, while IPv6 uses NDP (Neighbor Discovery Protocol).",
+            "IPv6 supports multicast communication natively, whereas IPv4 requires multicast to be implemented as an extension.",
+            "IPv6 simplifies header structure and improves routing efficiency compared to IPv4.",
+            "IPv6 introduces the concept of stateless address autoconfiguration, eliminating the need for DHCP in many cases.",
+            "IPv6 offers better support for mobile devices and seamless network roaming.",
+            "IPv6 allows for more efficient packet processing and routing due to its simplified header structure.",
+            "IPv4 address exhaustion is a significant issue, prompting the adoption of IPv6 to alleviate this problem."
+         ],
+         "context_set": ""
       }
    ]
 }  
