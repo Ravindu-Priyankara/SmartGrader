@@ -106,8 +106,8 @@ What is DHCP (Dynamic Host Configuration Protocol), and how does it work?
 Describe the role of NAT (Network Address Translation) in IP addressing.
 What is the difference between half-duplex and full-duplex communication?
 Explain the concept of Quality of Service (QoS) in network management.
-
 What are the primary differences between IPv4 and IPv6?
+
 Describe the purpose and operation of MAC (Media Access Control) addresses.
 What is a subnet, and how does it relate to network addressing?
 Explain the concept of multiplexing in network communication.

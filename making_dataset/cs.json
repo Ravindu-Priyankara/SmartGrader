@@ -2801,6 +2801,34 @@
             "IPv4 address exhaustion is a significant issue, prompting the adoption of IPv6 to alleviate this problem."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "Describe the purpose and operation of MAC (Media Access Control) addresses.",
+            "What is the significance of MAC (Media Access Control) addresses and how do they function?",
+            "Explain the role and functionality of MAC (Media Access Control) addresses.",
+            "How do MAC (Media Access Control) addresses contribute to network communication?",
+            "What are MAC (Media Access Control) addresses and how do they operate within a network?",
+            "Discuss the purpose of MAC (Media Access Control) addresses and how they are utilized.",
+            "Elaborate on the function and importance of MAC (Media Access Control) addresses in networking.",
+            "Can you provide an overview of MAC (Media Access Control) addresses and their operation?",
+            "In what way do MAC (Media Access Control) addresses facilitate network communication?",
+            "What is the mechanism behind MAC (Media Access Control) addresses and their role in networking?"
+         ],
+         "responses":[
+            "MAC addresses are unique identifiers assigned to network interfaces for communication at the data link layer of a network segment.",
+            "The purpose of MAC addresses is to uniquely identify devices within a network and enable the transmission of data between them.",
+            "MAC addresses operate by providing a hardware address for devices to communicate within a local network.",
+            "MAC addresses facilitate the control of data transmission by determining which device should receive specific data packets within a network.",
+            "MAC addresses play a crucial role in ensuring that data is correctly routed to the intended recipient device on a network.",
+            "MAC addresses are essential for devices to communicate with each other within the same network segment, enabling efficient data exchange.",
+            "The operation of MAC addresses involves assigning a unique identifier to each network interface, allowing devices to be identified and addressed in network communications.",
+            "MAC addresses are fundamental to the functioning of Ethernet and other network technologies, serving as identifiers for devices on a network.",
+            "MAC addresses function as a way to uniquely identify devices on a network, ensuring that data is delivered to the correct destination.",
+            "The purpose of MAC addresses is to provide a standardized method for addressing and routing data packets within a local network."
+         ],
+         "context_set": ""
       }
    ]
 }  
