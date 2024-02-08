@@ -2549,6 +2549,34 @@
             "ARP (Address Resolution Protocol) has implications on network performance and efficiency by ensuring efficient communication between devices through the resolution of IP addresses to MAC addresses."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "What is the purpose of DNS (Domain Name System) in the context of networking?",
+            "Why is DNS (Domain Name System) important for network communication?",
+            "How does DNS (Domain Name System) facilitate internet browsing?",
+            "In what way does DNS (Domain Name System) simplify network management?",
+            "What role does DNS (Domain Name System) play in translating domain names to IP addresses?",
+            "What are the benefits of using DNS (Domain Name System) in networking infrastructures?",
+            "Can you explain the function of DNS (Domain Name System) in routing network traffic?",
+            "What challenges arise in network communication without DNS (Domain Name System) functionality?",
+            "How does DNS (Domain Name System) enhance the scalability of network infrastructures?",
+            "What security implications are associated with DNS (Domain Name System) operations?"
+         ],
+         "responses":[
+            "The purpose of DNS (Domain Name System) in the context of networking is to translate domain names into IP addresses, allowing devices to locate resources on the internet.",
+            "DNS (Domain Name System) is important for network communication as it acts as a distributed database that maps human-readable domain names to machine-readable IP addresses.",
+            "DNS (Domain Name System) facilitates internet browsing by translating domain names typed in a web browser into corresponding IP addresses of web servers hosting the requested content.",
+            "DNS (Domain Name System) simplifies network management by providing a hierarchical naming system and centralizing the management of domain name assignments and IP address mappings.",
+            "DNS (Domain Name System) plays a crucial role in translating domain names to IP addresses, ensuring that users can access websites and services using familiar, easy-to-remember names.",
+            "Using DNS (Domain Name System) in networking infrastructures offers benefits such as improved accessibility, scalability, and fault tolerance by providing a standardized method for name resolution.",
+            "The function of DNS (Domain Name System) in routing network traffic involves resolving domain names to IP addresses, enabling routers to forward packets to their intended destinations.",
+            "Challenges in network communication without DNS (Domain Name System) functionality include the reliance on static IP addressing, making it difficult to adapt to changes in network configurations and resource locations.",
+            "DNS (Domain Name System) enhances the scalability of network infrastructures by distributing the workload of name resolution across multiple servers and caching frequently accessed mappings.",
+            "Security implications associated with DNS (Domain Name System) operations include risks such as DNS spoofing, cache poisoning, and distributed denial-of-service (DDoS) attacks targeting DNS servers."
+         ],
+         "context_set": ""
       }
    ]
 }  
