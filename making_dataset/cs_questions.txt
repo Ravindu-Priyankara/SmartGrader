@@ -112,13 +112,13 @@ What is a subnet, and how does it relate to network addressing?
 Explain the concept of multiplexing in network communication.
 Describe the role of a proxy server in network architecture.
 What is a virtual private network (VPN), and how does it provide secure communication?
-
 Explain the concept of bandwidth in the context of network performance.
 What is a network gateway, and what role does it play in routing traffic between networks?
 
 cybersecurity
 
 39. Explain the concept of encryption and its importance in cybersecurity.
+
 40. What is a firewall, and how does it protect a network?
 80. What are cybersecurity vulnerabilities, and how can they be mitigated?
 81. Explain the principles of digital forensics in cybersecurity.
@@ -127,6 +127,27 @@ cybersecurity
 84. What is a blockchain, and how is it used in cryptocurrencies?
 85. Explain the concept of virtual private networks (VPNs).
 99. Explain the concept of continuous monitoring in cybersecurity.
+What is computer security, and why is it important in today's digital age?
+Describe the CIA triad and its relevance to computer security.
+What is malware, and what are the common types of malware attacks?
+How does social engineering pose a threat to computer security, and what are some examples of social engineering attacks?
+What is phishing, and how can individuals and organizations protect themselves against phishing attacks?
+Explain the difference between authentication and authorization in the context of computer security.
+Describe the role of access control mechanisms in enforcing security policies.
+What are the main principles of secure software development, and why are they important?
+How can software vulnerabilities be identified and mitigated in the development lifecycle?
+What is a vulnerability assessment, and how does it contribute to improving overall security posture?
+Describe the concept of penetration testing and its role in assessing system security.
+How do Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) enhance network security?
+Explain the importance of patch management in maintaining system security.
+What is endpoint security, and why is it crucial in today's interconnected environment?
+Describe the role of encryption in securing data at rest and in transit.
+How do Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols contribute to secure communication over the internet?
+What is a secure password policy, and how can it help prevent unauthorized access to systems?
+Discuss the concept of security through obscurity and its effectiveness in protecting systems.
+How does biometric authentication work, and what are its advantages and limitations?
+Explain the principles of least privilege and separation of duties in maintaining system security.
+What are the emerging trends and challenges in computer security, and how are they shaping the future of cybersecurity?
 
 CS
 
