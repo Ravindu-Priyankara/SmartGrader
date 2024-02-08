@@ -2717,6 +2717,34 @@
             "NAT (Network Address Translation) is instrumental in overcoming the limitations of IPv4 address exhaustion by allowing multiple devices within a network to share a single public IP address."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "What is the difference between half-duplex and full-duplex communication?",
+            "Can you explain the distinction between half-duplex and full-duplex communication?",
+            "In what ways do half-duplex and full-duplex communication differ?",
+            "Could you outline the disparities between half-duplex and full-duplex communication?",
+            "What sets apart half-duplex communication from full-duplex communication?",
+            "How does half-duplex communication differ from full-duplex communication?",
+            "What are the contrasting features of half-duplex and full-duplex communication?",
+            "What separates half-duplex communication from full-duplex communication?",
+            "What are the key discrepancies between half-duplex and full-duplex communication?",
+            "What distinguishes half-duplex communication from full-duplex communication?"
+         ],
+         "responses":[
+            "Half-duplex communication allows data transmission in both directions, but not simultaneously, while full-duplex communication enables simultaneous transmission in both directions.",
+            "In half-duplex communication, data can be sent and received, but not at the same time, whereas in full-duplex communication, data can be transmitted and received simultaneously.",
+            "Half-duplex communication involves communication in both directions, but not concurrently, whereas full-duplex communication allows simultaneous two-way communication.",
+            "The main difference lies in the ability to send and receive data simultaneously; half-duplex allows only one-way communication at a time, while full-duplex allows simultaneous two-way communication.",
+            "Half-duplex communication involves a single channel for both sending and receiving data, alternating between the two, whereas full-duplex communication provides separate channels for sending and receiving, enabling simultaneous transmission.",
+            "In half-duplex communication, there's a single communication channel that switches between sending and receiving data, while in full-duplex communication, separate channels allow simultaneous data transmission in both directions.",
+            "Half-duplex communication allows data transmission in both directions, but not simultaneously, unlike full-duplex communication, which permits simultaneous two-way communication.",
+            "The key distinction is that half-duplex communication operates in either send or receive mode at any given time, while full-duplex communication enables both sending and receiving simultaneously.",
+            "Half-duplex communication involves alternating between sending and receiving data, whereas full-duplex communication allows for simultaneous two-way communication without switching modes.",
+            "Half-duplex communication facilitates bidirectional data transmission but not at the same time, whereas full-duplex communication allows simultaneous data exchange in both directions."
+         ],
+         "context_set": ""
       }
    ]
 }  
