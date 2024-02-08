@@ -102,10 +102,10 @@ What is the purpose of DNS (Domain Name System) in the context of networking?
 Describe the function of a firewall in network security.
 What are the different types of network topologies? Provide examples.
 Explain the concept of VLANs (Virtual Local Area Networks).
-
 What is DHCP (Dynamic Host Configuration Protocol), and how does it work?
 Describe the role of NAT (Network Address Translation) in IP addressing.
 What is the difference between half-duplex and full-duplex communication?
+
 Explain the concept of Quality of Service (QoS) in network management.
 What are the primary differences between IPv4 and IPv6?
 Describe the purpose and operation of MAC (Media Access Control) addresses.
