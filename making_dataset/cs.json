@@ -2661,6 +2661,34 @@
             "Challenges associated with VLAN deployment and maintenance may include complexity in configuration, potential for misconfigurations leading to network issues, and scalability concerns as the network grows."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CN",
+         "patterns":[
+            "What is DHCP (Dynamic Host Configuration Protocol), and how does it work?",
+            "What does DHCP stand for, and what are its operational mechanisms?",
+            "Could you explain DHCP (Dynamic Host Configuration Protocol) and its operational principles?",
+            "Define DHCP and elucidate its functioning.",
+            "Can you shed light on DHCP (Dynamic Host Configuration Protocol) and its operational framework?",
+            "In simple terms, what is DHCP (Dynamic Host Configuration Protocol), and how does it operate?",
+            "Explain the concept of DHCP (Dynamic Host Configuration Protocol) and how it functions.",
+            "Could you provide an overview of DHCP (Dynamic Host Configuration Protocol) and its workings?",
+            "What exactly is DHCP (Dynamic Host Configuration Protocol), and what are its working mechanisms?",
+            "Elaborate on DHCP (Dynamic Host Configuration Protocol) and its operational process."
+         ],
+         "responses":[
+            "DHCP (Dynamic Host Configuration Protocol) is a network protocol that automates the assignment of IP addresses and other network configuration parameters to devices.",
+            "DHCP stands for Dynamic Host Configuration Protocol, and it functions by dynamically assigning IP addresses to devices on a network.",
+            "DHCP, or Dynamic Host Configuration Protocol, is a network management protocol used to automate the process of assigning IP addresses and other network configuration parameters.",
+            "In essence, DHCP (Dynamic Host Configuration Protocol) is a networking protocol responsible for dynamically allocating IP addresses and other network settings to devices within a network.",
+            "DHCP (Dynamic Host Configuration Protocol) is a standardized network protocol used to assign IP addresses and other configuration information to devices dynamically.",
+            "DHCP (Dynamic Host Configuration Protocol) automates the assignment of IP addresses and network configuration parameters to devices, streamlining network management.",
+            "DHCP, or Dynamic Host Configuration Protocol, is a network protocol that facilitates the automatic assignment of IP addresses and other network configuration details to devices.",
+            "DHCP (Dynamic Host Configuration Protocol) simplifies network administration by dynamically assigning IP addresses and other network configuration parameters to devices.",
+            "DHCP (Dynamic Host Configuration Protocol) is a network protocol that dynamically provides IP addresses and configuration information to devices on a network.",
+            "At its core, DHCP (Dynamic Host Configuration Protocol) is a networking protocol that automates the process of assigning IP addresses and network configuration parameters to devices."
+         ],
+         "context_set": ""
       }
    ]
 }  
