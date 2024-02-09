@@ -3305,6 +3305,34 @@
             "Malware encompasses software designed to disrupt, damage, or gain unauthorized access to computer systems. Examples of common malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CSY",
+         "patterns":[
+            "How does social engineering pose a threat to computer security, and what are some examples of social engineering attacks?",
+            "What makes social engineering a significant concern in computer security, and could you provide instances of social engineering attacks?",
+            "In what ways does social engineering jeopardize computer security, and can you elucidate with social engineering attack scenarios?",
+            "How does social engineering impact computer security, and can you give examples of social engineering attacks?",
+            "Why is social engineering considered a danger to computer security, and what kinds of social engineering attacks are commonly observed?",
+            "What are the risks associated with social engineering in terms of computer security, and could you illustrate with examples of social engineering attacks?",
+            "What vulnerabilities does social engineering exploit in computer security, and what are some real-world cases of social engineering attacks?",
+            "What are the implications of social engineering on computer security, and can you outline some instances of social engineering attacks?",
+            "How does social engineering undermine computer security, and what are some typical social engineering attack patterns?",
+            "What are the consequences of social engineering on computer security, and could you provide examples of social engineering attacks?"
+         ],
+         "responses":[
+            "Social engineering exploits human psychology to manipulate individuals into divulging sensitive information or performing actions that compromise computer security. Examples include phishing emails, pretexting, and baiting.",
+            "Social engineering poses a threat to computer security by exploiting human trust and manipulation techniques to gain unauthorized access or sensitive information. Examples include pretexting, tailgating, and spear phishing.",
+            "Social engineering undermines computer security by exploiting human vulnerabilities rather than technical flaws. Examples include phishing attacks, pretexting, and social media manipulation.",
+            "Social engineering attacks leverage psychological manipulation to trick individuals into divulging confidential information or performing actions that compromise security. Examples include spear phishing, pretexting, and vishing.",
+            "Social engineering presents a significant threat to computer security as it preys on human psychology and trust. Examples include phishing scams, pretexting, and social media manipulation.",
+            "Social engineering is a danger to computer security as it exploits human vulnerabilities to bypass technical defenses. Examples include phishing attacks, pretexting, and baiting.",
+            "Social engineering exploits human behavior to bypass technical security measures. Examples include phishing, pretexting, and tailgating.",
+            "Social engineering attacks exploit human trust and psychology to breach computer security. Examples include phishing emails, pretexting, and impersonation.",
+            "Social engineering undermines computer security by manipulating individuals into divulging sensitive information or performing actions against their best interests. Examples include phishing, pretexting, and social engineering through phone calls.",
+            "Social engineering attacks manipulate human psychology to compromise computer security. Examples include phishing, pretexting, and social media manipulation."
+         ],
+         "context_set": ""
       }
    ]
 }  
