@@ -3557,6 +3557,34 @@
             "Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) aid in the early detection and prevention of security breaches in a network environment by continuously monitoring traffic, analyzing patterns, and swiftly responding to suspicious activities to mitigate potential risks."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CSY",
+         "patterns":[
+            "Explain the importance of patch management in maintaining system security.",
+            "Why is patch management crucial for maintaining system security?",
+            "What role does patch management play in ensuring system security?",
+            "Can you elaborate on the significance of patch management in system security maintenance?",
+            "In what ways does patch management contribute to maintaining system security?",
+            "How does patch management impact overall system security?",
+            "What are the key reasons behind emphasizing patch management in system security?",
+            "Could you detail the importance of patch management in the context of system security?",
+            "What are the consequences of neglecting patch management for system security?",
+            "What benefits does effective patch management offer in terms of system security?"
+         ],
+         "responses":[
+            "Patch management ensures that security vulnerabilities are promptly addressed, reducing the risk of exploitation by malicious actors.",
+            "By regularly applying patches, organizations can close known security holes, making it harder for attackers to breach systems.",
+            "Patch management is essential for maintaining system security as it helps in keeping software up-to-date with the latest security fixes.",
+            "Through patch management, organizations can stay ahead of potential security threats by proactively updating their systems with necessary patches.",
+            "Effective patch management minimizes the window of opportunity for cyberattacks by swiftly addressing known vulnerabilities.",
+            "Patch management plays a critical role in bolstering the overall resilience of systems against evolving cyber threats.",
+            "The importance of patch management lies in its ability to mitigate the risk of cyber incidents, thus safeguarding sensitive data and resources.",
+            "Neglecting patch management can leave systems susceptible to exploitation, leading to data breaches, system downtime, and financial losses.",
+            "Patch management enhances the security posture of organizations by ensuring that software vulnerabilities are promptly remediated.",
+            "A robust patch management strategy is crucial for maintaining regulatory compliance and meeting security standards."
+         ],
+         "context_set": ""
       }
    ]
 }  

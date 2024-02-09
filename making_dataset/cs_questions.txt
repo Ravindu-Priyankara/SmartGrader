@@ -137,8 +137,8 @@ What are the main principles of secure software development, and why are they im
 How can software vulnerabilities be identified and mitigated in the development lifecycle?
 What is a vulnerability assessment, and how does it contribute to improving overall security posture?
 Describe the concept of penetration testing and its role in assessing system security.
-
 How do Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) enhance network security?
+
 Explain the importance of patch management in maintaining system security.
 What is endpoint security, and why is it crucial in today's interconnected environment?
 Describe the role of encryption in securing data at rest and in transit.
