@@ -3361,6 +3361,34 @@
             "Phishing is a form of cybercrime where attackers attempt to deceive individuals or organizations into disclosing sensitive information such as passwords or financial details by posing as a trusted entity. To safeguard against phishing attacks, individuals and organizations should implement security protocols such as email authentication, user awareness training, spam filters, and encryption methods for sensitive data transmission."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CSY",
+         "patterns":[
+            "Explain the difference between authentication and authorization in the context of computer security.",
+            "What distinguishes authentication from authorization when discussing computer security?",
+            "Can you elucidate the disparity between authentication and authorization within computer security?",
+            "In computer security, how do authentication and authorization differ from each other?",
+            "Could you outline the contrast between authentication and authorization in computer security?",
+            "What separates authentication and authorization in the realm of computer security?",
+            "Elaborate on the distinction between authentication and authorization within computer security, please.",
+            "How do authentication and authorization vary in computer security?",
+            "What is the difference between authentication and authorization, particularly in the field of computer security?",
+            "Discuss the discrepancy between authentication and authorization in the context of computer security."
+         ],
+         "responses":[
+            "Authentication verifies the identity of a user, ensuring they are who they claim to be, while authorization determines what actions or resources a user is allowed to access.",
+            "Authentication is the process of confirming a user's identity, while authorization is the process of granting or denying access to resources based on that identity.",
+            "Authentication involves validating the credentials of a user, whereas authorization involves granting permissions based on those credentials.",
+            "In computer security, authentication confirms the identity of a user, while authorization defines what actions the authenticated user is permitted to perform.",
+            "Authentication focuses on confirming the identity of users, while authorization focuses on specifying the access rights of authenticated users.",
+            "Authentication ensures the validity of a user's identity, while authorization determines the privileges associated with that identity.",
+            "Authentication verifies the identity of users, whereas authorization regulates the actions those users can take within a system.",
+            "Authentication confirms the identity of a user, while authorization controls the resources and services that the authenticated user can access.",
+            "Authentication establishes the identity of a user, while authorization determines the level of access that user has to resources or services.",
+            "In computer security, authentication validates the identity of users, while authorization governs their access rights."
+         ],
+         "context_set": ""
       }
    ]
 }  
