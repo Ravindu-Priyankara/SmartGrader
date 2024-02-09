@@ -3277,6 +3277,34 @@
             "Adhering to the principles of the CIA triad mitigates cyber threats by addressing fundamental security objectives: preserving confidentiality, maintaining data integrity, and ensuring resource availability for authorized users."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CSY",
+         "patterns":[
+            "What is malware, and what are the common types of malware attacks?",
+            "What constitutes malware, and what are some prevalent forms of malware attacks?",
+            "Define malware and outline the typical categories of malware attacks.",
+            "Could you explain malware and list out the common tactics employed in malware attacks?",
+            "Elaborate on the concept of malware and detail the various types of malware attacks.",
+            "In your own words, describe malware and enumerate the primary methods used in malware attacks.",
+            "What exactly is malware, and can you identify the typical varieties of malware attacks?",
+            "Break down the definition of malware and elucidate the common modes of malware attack.",
+            "What do we mean by malware, and what are the standard strategies behind malware attacks?",
+            "Define malware and provide an overview of the typical malware attack vectors."
+         ],
+         "responses":[
+            "Malware refers to malicious software designed to disrupt, damage, or gain unauthorized access to computer systems. Common types of malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware encompasses any software intentionally designed to harm a computer system or its users. Examples of common malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware is any software created with malicious intent to cause harm or gain unauthorized access to computer systems. Some of the most prevalent types of malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware, short for malicious software, refers to a broad category of harmful programs designed to disrupt or infiltrate computer systems. Among the various types of malware attacks are viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware denotes software intended to cause harm or gain unauthorized access to computer systems. Common types of malware attacks encompass viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware is software crafted to damage or compromise computer systems. Examples of common malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware is any software designed to disrupt, damage, or gain unauthorized access to computer systems. Some prevalent types of malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware refers to malicious software created to harm or infiltrate computer systems. Examples of common malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware is any software crafted with malicious intent to compromise or damage computer systems. Among the common types of malware attacks are viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets.",
+            "Malware encompasses software designed to disrupt, damage, or gain unauthorized access to computer systems. Examples of common malware attacks include viruses, worms, Trojans, ransomware, spyware, adware, rootkits, and botnets."
+         ],
+         "context_set": ""
       }
    ]
 }  

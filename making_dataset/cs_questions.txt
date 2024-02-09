@@ -127,8 +127,8 @@ cybersecurity
 85. Explain the concept of virtual private networks (VPNs).
 99. Explain the concept of continuous monitoring in cybersecurity.
 What is computer security, and why is it important in today's digital age?
-
 Describe the CIA triad and its relevance to computer security.
+
 What is malware, and what are the common types of malware attacks?
 How does social engineering pose a threat to computer security, and what are some examples of social engineering attacks?
 What is phishing, and how can individuals and organizations protect themselves against phishing attacks?
