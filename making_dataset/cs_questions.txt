@@ -130,10 +130,10 @@ What is computer security, and why is it important in today's digital age?
 Describe the CIA triad and its relevance to computer security.
 What is malware, and what are the common types of malware attacks?
 How does social engineering pose a threat to computer security, and what are some examples of social engineering attacks?
-
 What is phishing, and how can individuals and organizations protect themselves against phishing attacks?
 Explain the difference between authentication and authorization in the context of computer security.
 Describe the role of access control mechanisms in enforcing security policies.
+
 What are the main principles of secure software development, and why are they important?
 How can software vulnerabilities be identified and mitigated in the development lifecycle?
 What is a vulnerability assessment, and how does it contribute to improving overall security posture?
