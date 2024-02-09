@@ -118,10 +118,10 @@ What is a network gateway, and what role does it play in routing traffic between
 cybersecurity
 
 39. Explain the concept of encryption and its importance in cybersecurity.
-
 40. What is a firewall, and how does it protect a network?
 80. What are cybersecurity vulnerabilities, and how can they be mitigated?
 81. Explain the principles of digital forensics in cybersecurity.
+
 82. What is a denial-of-service (DoS) attack, and how does it work?
 83. Describe the significance of two-factor authentication (2FA) in security.
 84. What is a blockchain, and how is it used in cryptocurrencies?
