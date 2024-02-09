@@ -3109,6 +3109,34 @@
             "A denial-of-service (DoS) attack entails the deliberate inundation of a target system or network with malicious traffic or requests, causing it to become unresponsive or unavailable to legitimate users."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CSY",
+         "patterns":[
+            "Describe the significance of two-factor authentication (2FA) in security.",
+            "What role does two-factor authentication (2FA) play in enhancing security measures?",
+            "How does two-factor authentication (2FA) contribute to bolstering security protocols?",
+            "Explain the importance of implementing two-factor authentication (2FA) for security purposes.",
+            "In what ways does two-factor authentication (2FA) strengthen security practices?",
+            "What is the relevance of two-factor authentication (2FA) in the realm of cybersecurity?",
+            "Why is it essential to incorporate two-factor authentication (2FA) into security strategies?",
+            "What benefits does two-factor authentication (2FA) bring to overall security frameworks?",
+            "Can you elaborate on the role of two-factor authentication (2FA) in safeguarding digital assets?",
+            "How does the adoption of two-factor authentication (2FA) mitigate security risks effectively?"
+         ],
+         "responses":[
+            "Two-factor authentication (2FA) adds an extra layer of security by requiring users to provide two different authentication factors before granting access.",
+            "By combining something the user knows (like a password) with something the user has (like a mobile device), two-factor authentication (2FA) reduces the likelihood of unauthorized access.",
+            "Implementing two-factor authentication (2FA) strengthens security by making it significantly harder for attackers to gain access to sensitive information or accounts.",
+            "Two-factor authentication (2FA) is crucial for security as it helps prevent unauthorized access even if one factor (such as a password) is compromised.",
+            "The significance of two-factor authentication (2FA) lies in its ability to add an extra layer of protection, reducing the risk of unauthorized access to systems and data.",
+            "Two-factor authentication (2FA) plays a vital role in enhancing security measures by requiring additional verification beyond just a password, thereby increasing the difficulty for attackers to breach accounts.",
+            "Incorporating two-factor authentication (2FA) into security strategies is essential for mitigating the risk of unauthorized access and protecting sensitive information from potential threats.",
+            "Two-factor authentication (2FA) offers several benefits to security frameworks, including reduced vulnerability to password-based attacks and enhanced user authentication processes.",
+            "The adoption of two-factor authentication (2FA) is crucial for safeguarding digital assets as it adds an extra layer of verification, making it harder for unauthorized users to gain access.",
+            "Two-factor authentication (2FA) helps mitigate security risks effectively by requiring users to provide two different authentication factors, thereby reducing the likelihood of successful unauthorized access attempts."
+         ],
+         "context_set": ""
       }
    ]
 }  

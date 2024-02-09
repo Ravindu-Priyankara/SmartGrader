@@ -121,8 +121,8 @@ cybersecurity
 40. What is a firewall, and how does it protect a network?
 80. What are cybersecurity vulnerabilities, and how can they be mitigated?
 81. Explain the principles of digital forensics in cybersecurity.
-
 82. What is a denial-of-service (DoS) attack, and how does it work?
+
 83. Describe the significance of two-factor authentication (2FA) in security.
 84. What is a blockchain, and how is it used in cryptocurrencies?
 85. Explain the concept of virtual private networks (VPNs).
