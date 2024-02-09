@@ -3081,6 +3081,34 @@
             "The principles of digital forensics in cybersecurity align with established investigative methodologies, such as the Scientific Method, to ensure systematic and thorough analysis of digital evidence."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CSY",
+         "patterns":[
+            "What is a denial-of-service (DoS) attack, and how does it work?",
+            "What exactly constitutes a denial-of-service (DoS) attack, and what are its operational mechanisms?",
+            "Define a denial-of-service (DoS) attack and elucidate its modus operandi.",
+            "Could you explain the concept of a denial-of-service (DoS) attack and its functioning?",
+            "In simple terms, what is a denial-of-service (DoS) attack, and what are the steps involved in its execution?",
+            "What are the fundamentals of a denial-of-service (DoS) attack, and how is it carried out?",
+            "Elaborate on the nature of a denial-of-service (DoS) attack and provide insights into its operational dynamics.",
+            "Can you shed light on the workings of a denial-of-service (DoS) attack and its purpose?",
+            "What constitutes a denial-of-service (DoS) attack, and what mechanisms are typically employed in its implementation?",
+            "Provide an overview of a denial-of-service (DoS) attack and explain its operational framework."
+         ],
+         "responses":[
+            "A denial-of-service (DoS) attack is a malicious attempt to disrupt the normal functioning of a targeted server, service, or network by overwhelming it with a flood of illegitimate traffic or requests.",
+            "Denial-of-service (DoS) attacks typically work by flooding the target system with an excessive amount of traffic, causing it to become unreachable to legitimate users.",
+            "In a denial-of-service (DoS) attack, the attacker exploits vulnerabilities in the target system or network infrastructure to flood it with an overwhelming volume of traffic or requests, rendering it unable to respond to legitimate users.",
+            "A denial-of-service (DoS) attack functions by exhausting the target's resources such as bandwidth, processing capacity, or memory, thereby preventing it from servicing legitimate requests.",
+            "During a denial-of-service (DoS) attack, the attacker disrupts the normal operation of a target system or network by flooding it with a barrage of malicious traffic or requests, rendering it inaccessible to legitimate users.",
+            "Denial-of-service (DoS) attacks work by exploiting weaknesses in the target's defenses to flood it with a high volume of traffic or requests, causing it to become unavailable to legitimate users.",
+            "In essence, a denial-of-service (DoS) attack disrupts the availability of a targeted system or network by flooding it with malicious traffic, effectively rendering it inaccessible to legitimate users.",
+            "The primary goal of a denial-of-service (DoS) attack is to render a target system or network unavailable to its intended users by flooding it with a deluge of illegitimate traffic or requests, overwhelming its resources.",
+            "Denial-of-service (DoS) attacks operate by inundating the target system or network with an excessive volume of malicious traffic or requests, hindering its ability to serve legitimate users.",
+            "A denial-of-service (DoS) attack entails the deliberate inundation of a target system or network with malicious traffic or requests, causing it to become unresponsive or unavailable to legitimate users."
+         ],
+         "context_set": ""
       }
    ]
 }  
