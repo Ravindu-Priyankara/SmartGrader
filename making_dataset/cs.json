@@ -3613,6 +3613,34 @@
             "In today's interconnected environment, endpoint security is paramount for protecting devices such as computers, servers, and mobile devices from cyber threats. Its importance stems from the fact that these endpoints serve as entry points for potential attacks, making them vulnerable to exploitation. By implementing effective endpoint security measures, organizations can mitigate these risks and ensure the overall security of their networks."
          ],
          "context_set": ""
+      },
+      {
+         "tag":"CSY",
+         "patterns":[
+            "How do Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols contribute to secure communication over the internet?",
+            "What is the role of Secure Sockets Layer (SSL) and Transport Layer Security (TLS) in enhancing internet communication security?",
+            "How do SSL and TLS protocols ensure secure data transmission over the internet?",
+            "Why are Secure Sockets Layer (SSL) and Transport Layer Security (TLS) important for securing online communication?",
+            "In what ways do SSL and TLS protocols safeguard internet communication from security threats?",
+            "Can you explain how Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols protect internet communication?",
+            "What mechanisms do SSL and TLS employ to maintain secure communication over the internet?",
+            "What are the benefits of using SSL and TLS protocols for securing internet communication?",
+            "How do SSL and TLS contribute to the encryption and authentication of internet communication?",
+            "What measures do SSL and TLS protocols implement to prevent unauthorized access to internet communication?"
+         ],
+         "responses":[
+            "SSL and TLS protocols encrypt data transmitted over the internet, ensuring confidentiality and integrity of communication.",
+            "Through encryption algorithms and digital certificates, SSL and TLS establish secure connections between clients and servers.",
+            "SSL and TLS verify the identity of communicating parties, preventing man-in-the-middle attacks and unauthorized access.",
+            "These protocols use cryptographic techniques to protect sensitive information exchanged over the internet.",
+            "SSL and TLS protocols mitigate risks associated with eavesdropping and data tampering during internet communication.",
+            "By employing robust encryption mechanisms, SSL and TLS shield transmitted data from interception by malicious actors.",
+            "SSL and TLS facilitate secure communication by establishing encrypted tunnels between communicating endpoints.",
+            "These protocols enable secure online transactions by encrypting financial and personal data exchanged between users and websites.",
+            "SSL and TLS enhance internet communication security by preventing unauthorized interception and modification of data.",
+            "Through mutual authentication and encryption, SSL and TLS ensure secure and trustworthy communication channels over the internet."
+         ],
+         "context_set": ""
       }
    ]
 }  
