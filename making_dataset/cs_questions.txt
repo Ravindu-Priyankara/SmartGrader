@@ -122,11 +122,11 @@ cybersecurity
 80. What are cybersecurity vulnerabilities, and how can they be mitigated?
 81. Explain the principles of digital forensics in cybersecurity.
 82. What is a denial-of-service (DoS) attack, and how does it work?
-
 83. Describe the significance of two-factor authentication (2FA) in security.
 84. What is a blockchain, and how is it used in cryptocurrencies?
 85. Explain the concept of virtual private networks (VPNs).
 99. Explain the concept of continuous monitoring in cybersecurity.
+
 What is computer security, and why is it important in today's digital age?
 Describe the CIA triad and its relevance to computer security.
 What is malware, and what are the common types of malware attacks?
