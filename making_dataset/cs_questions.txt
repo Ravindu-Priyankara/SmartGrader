@@ -142,11 +142,11 @@ Explain the importance of patch management in maintaining system security.
 What is endpoint security, and why is it crucial in today's interconnected environment?
 Describe the role of encryption in securing data at rest and in transit.
 How do Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols contribute to secure communication over the internet?
-
 What is a secure password policy, and how can it help prevent unauthorized access to systems?
 Discuss the concept of security through obscurity and its effectiveness in protecting systems.
 How does biometric authentication work, and what are its advantages and limitations?
 Explain the principles of least privilege and separation of duties in maintaining system security.
+
 What are the emerging trends and challenges in computer security, and how are they shaping the future of cybersecurity?
 
 CS
