@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Realistic Girl Design</title>
+  <style>
+    .girl {
+      position: relative;
+      width: 100px;
+      height: 200px;
+      background-color: #ffdab9; /* Skin color */
+      border-radius: 50%;
+      overflow: hidden;
+    }
+
+    .hair {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100px;
+      background-color: #000; /* Hair color */
+      border-radius: 50% 50% 0 0;
+    }
+
+    .face {
+      position: absolute;
+      top: 70px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60px;
+      height: 60px;
+      background-color: #ffdab9; /* Skin color */
+      border-radius: 50%;
+    }
+
+    .eyes {
+      position: absolute;
+      top: 85px;
+      width: 20px;
+      height: 20px;
+      background-color: #fff; /* Eye color */
+      border-radius: 50%;
+      z-index: 1;
+    }
+
+    .eyes.left {
+      left: 30%;
+    }
+
+    .eyes.right {
+      left: 50%;
+    }
+
+    .pupils {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 8px;
+      height: 8px;
+      background-color: #000; /* Pupil color */
+      border-radius: 50%;
+    }
+
+    .mouth {
+      position: absolute;
+      top: 100px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 40px;
+      height: 20px;
+      border-top: 2px solid #000;
+      border-radius: 0 0 20px 20px;
+      border-color: #000 transparent transparent transparent;
+    }
+  </style>
+</head>
+<body>
+  <div class="girl">
+    <div class="hair"></div>
+    <div class="face">
+      <div class="eyes left">
+        <div class="pupils"></div>
+      </div>
+      <div class="eyes right">
+        <div class="pupils"></div>
+      </div>
+      <div class="mouth"></div>
+    </div>
+  </div>
+</body>
+</html>
