@@ -1,7 +1,7 @@
 {
    "intents": [
       {
-         "tag":"CS",
+         "tag":"Compiler",
          "patterns":[
             "What is a compiler, and how does it differ from an interpreter?",
             "Compiler vs Interpreter",
@@ -31,7 +31,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"Ramandrom",
          "patterns":[
             "Explain the difference between RAM and ROM.",
             "Describe the distinctions between RAM and ROM in computer memory.",
@@ -60,7 +60,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"datastructure",
          "patterns":[
             "What is a data structure, and give an example.",
             "What is the definition of a data structure, and why is it important in computer science?",
@@ -88,7 +88,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"computerscience",
          "patterns":[
             "Describe the concept of abstraction in computer science.",
             "What is the definition of abstraction in computer science?",
@@ -116,7 +116,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"process",
          "patterns":[
             "What is the difference between a process and a thread?",
             "How does the kernel function in an operating system?",
@@ -144,7 +144,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"turing",
          "patterns":[
             "Explain the significance of the Turing machine in computer science.",
             "Explain the significance of recursion in computer science.",
@@ -172,7 +172,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"framework",
          "patterns":[
             "Explain the concept of a software framework and offer an example.",
             "What is a software framework, and can you provide an example?",
@@ -201,7 +201,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"bigonotation",
          "patterns":[
             "Explain what Big O notation is and how it serves a role in algorithm analysis.",
             "Can you define Big O notation and elaborate on its significance in analyzing algorithms?",
@@ -229,7 +229,7 @@
          "context_set": ""
       },
       {
-         "tag":"CS",
+         "tag":"lowlevel",
          "patterns":[
             "Explain the distinction between a high-level programming language and a low-level programming language.",
             "Can you clarify the contrast between a high-level programming language and a low-level programming language?",
